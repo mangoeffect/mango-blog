@@ -3,7 +3,7 @@ title: "记一次typecho博客迁移：更换typecho站点空间"
 categories: [ "网站" ]
 tags: [ "typecho","网站迁移" ]
 draft: false
-slug: "typcho-migrate"
+slug: "website/typcho-migrate"
 date: "2019-05-23 17:05:00"
 ---
 
@@ -57,4 +57,4 @@ date: "2019-05-23 17:05:00"
 --- 
 
 本文由芒果浩明发布，转载需注明来源。
-本文链接：https://mangoroom.cn/website/typcho-migrate.html
+本文链接：https://blog.mangoroom.cn/website/typcho-migrate.html

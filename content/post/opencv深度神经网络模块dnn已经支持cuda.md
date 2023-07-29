@@ -3,7 +3,7 @@ title: "opencv深度神经网络模块dnn已经支持cuda"
 categories: [ "opencv","计算机视觉" ]
 tags: [ "opencv","dnn","cuda" ]
 draft: false
-slug: "opencv-dnn-module-have-supported-cuda"
+slug: "opencv/opencv-dnn-module-have-supported-cuda"
 date: "2019-11-11 10:52:00"
 ---
 
@@ -63,6 +63,6 @@ enum  	cv::dnn::Target {
 ---
 
 本文由芒果浩明发布，转载请注明来源。
-本文链接：https://mangoroom.cn/opencv/opencv-dnn-module-have-supported-cuda.html
+本文链接：https://blog.mangoroom.cn/opencv/opencv-dnn-module-have-supported-cuda.html
 
   [1]: https://mangoroom.cn/usr/uploads/2019/11/2447171765.jpg

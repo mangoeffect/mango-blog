@@ -3,7 +3,7 @@ title: "谷歌读取sitemap站点地图失败的尝试解决"
 categories: [ "网站" ]
 tags: [ "网站","站点地图","seo","谷歌" ]
 draft: false
-slug: "google-failed-to-read-sitemap"
+slug: "website/google-failed-to-read-sitemap"
 date: "2019-06-05 22:25:00"
 ---
 
@@ -35,7 +35,7 @@ date: "2019-06-05 22:25:00"
 ---
 
 本文由芒果浩明发布，转载需注明来源。
-本文链接：https://mangoroom.cn/website/google-failed-to-read-sitemap.html
+本文链接：https://blog.mangoroom.cn/website/google-failed-to-read-sitemap.html
 
   [1]: https://mangoroom.cn/usr/uploads/2019/06/3724987278.png
   [2]: https://mangoroom.cn/usr/uploads/2019/06/3811001878.png

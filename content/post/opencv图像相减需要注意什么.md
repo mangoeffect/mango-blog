@@ -3,7 +3,7 @@ title: "opencv图像相减需要注意什么"
 categories: [ "opencv" ]
 tags: [ "opencv" ]
 draft: false
-slug: "notes-for-image-subtraction-in-opencv"
+slug: "opencv/notes-for-image-subtraction-in-opencv"
 date: "2020-01-19 11:34:00"
 ---
 
@@ -96,4 +96,4 @@ abs(mat1 - mat2) = 0
 ---
 
 本文由芒果浩明发布，转载请注明出处。
-本文链接：https://mangoroom.cn/opencv/notes-for-image-subtraction-in-opencv.html
+本文链接：https://blog.mangoroom.cn/opencv/notes-for-image-subtraction-in-opencv.html

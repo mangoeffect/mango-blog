@@ -3,7 +3,7 @@ title: "wechat-typecho2.0"
 categories: [ "网站" ]
 tags: [ "typecho","wetypecho","towxml" ]
 draft: false
-slug: "wechat-typecho2-0"
+slug: "website/wechat-typecho2-0"
 date: "2022-06-17 22:53:18"
 ---
 

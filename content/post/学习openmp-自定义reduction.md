@@ -3,7 +3,7 @@ title: "学习openmp-自定义reduction"
 categories: [ "并行编程" ]
 tags: [ "c++","cmake","openmp","reduction","custom-reduction" ]
 draft: false
-slug: "learn-openmp-custom-reduction"
+slug: "并行编程/learn-openmp-custom-reduction"
 date: "2021-12-06 19:20:00"
 ---
 

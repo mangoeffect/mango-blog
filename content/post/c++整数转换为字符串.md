@@ -3,7 +3,7 @@ title: "c++整数转换为字符串"
 categories: [ "c++" ]
 tags: [ "c++","字符串" ]
 draft: false
-slug: "some-ways-to-convert-int-to-string-in-cpp"
+slug: "cpp/some-ways-to-convert-int-to-string-in-cpp"
 date: "2020-01-20 15:40:00"
 ---
 
@@ -82,4 +82,4 @@ auto s = std::to_string(42);
 ---
 
 本文由芒果浩明发布，转载请注明出处。
-本文链接：https://mangoroom.cn/cpp/some-ways-to-convert-int-to-string-in-cpp.html
+本文链接：https://blog.mangoroom.cn/cpp/some-ways-to-convert-int-to-string-in-cpp.html

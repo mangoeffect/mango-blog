@@ -3,7 +3,7 @@ title: "wpf嵌入winform控件"
 categories: [ "DotNet" ]
 tags: [ "c#","wpf","winform" ]
 draft: false
-slug: "wfp-import-winform-control"
+slug: "DotNet/wfp-import-winform-control"
 date: "2019-08-15 19:42:00"
 ---
 
@@ -65,5 +65,5 @@ this.WinFormHost.Child = control;//宿主容器必须命名，否则后台找不
 ---
 
 本文由芒果浩明发布，转载请注明来源。
-本文链接：https://mangoroom.cn/donet/wfp-import-winform-control.html
+本文链接：https://blog.mangoroom.cn/donet/wfp-import-winform-control.html
 

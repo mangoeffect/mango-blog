@@ -3,7 +3,7 @@ title: "opencv滤镜-图像灰度化"
 categories: [ "opencv","滤镜" ]
 tags: [ "opencv","图像处理","图像处理算法","滤镜","灰度" ]
 draft: false
-slug: "image-graying-in-opencv"
+slug: "opencv/image-graying-in-opencv"
 date: "2019-07-02 16:29:00"
 ---
 
@@ -180,7 +180,7 @@ cv::cvtColor(rgbMat, grayMat, COLOR_BGR2GRAY); //opencv3.x
 --- 
 
 本文由芒果浩明发布，转载请注明来源。
-本文链接：https://mangoroom.cn/opencv/image-graying-in-opencv.html
+本文链接：https://blog.mangoroom.cn/opencv/image-graying-in-opencv.html
 
   [1]: https://mangoroom.cn/usr/uploads/2019/07/3135764183.jpg
   [2]: https://mangoroom.cn/usr/uploads/2019/07/3368344024.png

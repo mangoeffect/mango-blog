@@ -3,7 +3,7 @@ title: "windows平台安装与配置PCL"
 categories: [ "PCL" ]
 tags: [ "vs2019","cmake","vs","pcl" ]
 draft: false
-slug: "install-and-configure-pcl-on-windows"
+slug: "PCL/install-and-configure-pcl-on-windows"
 date: "2020-09-28 11:28:00"
 ---
 
@@ -123,7 +123,7 @@ cmake -G "Visual Studio 15 2017 " .. #生成vs2017 32位的项目工程
 ------------
 
 本文由芒果浩明发布，转载请注明出处。
-本文链接：https://mangoroom.cn/pcl/install-and-configure-pcl-on-windows.html
+本文链接：https://blog.mangoroom.cn/pcl/install-and-configure-pcl-on-windows.html
 
   [1]: https://mangoroom.cn/usr/uploads/2020/09/2952299226.png
   [2]: https://mangoroom.cn/usr/uploads/2020/09/2994108311.png

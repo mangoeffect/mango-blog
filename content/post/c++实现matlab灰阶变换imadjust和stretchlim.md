@@ -3,7 +3,7 @@ title: "c++实现matlab灰阶变换imadjust和stretchlim"
 categories: [ "opencv","c++","计算机视觉" ]
 tags: [ "opencv","c++","matlab","灰度变换" ]
 draft: false
-slug: "matlab-imadjust-and-stretchlim-function-implement-by-cpp"
+slug: "opencv/matlab-imadjust-and-stretchlim-function-implement-by-cpp"
 date: "2020-03-25 23:18:00"
 ---
 
@@ -437,7 +437,7 @@ std::vector<double> strecthlim(cv::Mat img, double tol_low, double tol_high)
 -----
 
 本文由芒果浩明发布，转载请注明出处。
-本文链接：https://mangoroom.cn/opencv/matlab-imadjust-and-stretchlim-function-implement-by-cpp.html
+本文链接：https://blog.mangoroom.cn/opencv/matlab-imadjust-and-stretchlim-function-implement-by-cpp.html
 
   [1]: https://mangoroom.cn/usr/uploads/2020/03/896254952.png
   [2]: https://mangoroom.cn/usr/uploads/2020/03/3321482999.png

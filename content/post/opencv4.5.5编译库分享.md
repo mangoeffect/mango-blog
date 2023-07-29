@@ -3,7 +3,7 @@ title: "opencv4.5.5编译库分享"
 categories: [ "opencv","资源分享" ]
 tags: [ "opencv","tbb","avx2","sse" ]
 draft: false
-slug: "opencv-4-5-5-x64-vc17-shared-avx2-sse-world-tbb"
+slug: "opencv/opencv-4-5-5-x64-vc17-shared-avx2-sse-world-tbb"
 date: "2022-06-04 16:05:48"
 ---
 
@@ -42,4 +42,4 @@ date: "2022-06-04 16:05:48"
 -------------
 
 本文由芒果浩明发布，转载请注明出处。
-本文链接：https://mangoroom.cn/opencv/opencv-4-5-5-x64-vc17-shared-avx2-sse-world-tbb.html
+本文链接：https://blog.mangoroom.cn/opencv/opencv-4-5-5-x64-vc17-shared-avx2-sse-world-tbb.html

@@ -3,7 +3,7 @@ title: "opencv滤镜-实现晕影vignetting效果"
 categories: [ "opencv","滤镜" ]
 tags: [ "opencv","图像处理","图像处理算法","滤镜","晕影" ]
 draft: false
-slug: "create-vignetting-filter-in-opencv"
+slug: "opencv/create-vignetting-filter-in-opencv"
 date: "2019-07-02 10:32:00"
 ---
 

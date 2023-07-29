@@ -3,7 +3,7 @@ title: "学习openmp-master"
 categories: [ "并行编程" ]
 tags: [ "thread","openmp","master" ]
 draft: false
-slug: "learn-openmp-master"
+slug: "并行编程/learn-openmp-master"
 date: "2021-12-14 10:55:00"
 ---
 

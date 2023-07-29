@@ -3,7 +3,7 @@ title: "OpenCV程序优化技巧(1)"
 categories: [ "opencv","c++" ]
 tags: [ "opencv","simd","parallel","optimization" ]
 draft: false
-slug: "optimization-methods-in-opencv-1"
+slug: "opencv/optimization-methods-in-opencv-1"
 date: "2022-03-02 10:14:00"
 ---
 
@@ -461,4 +461,4 @@ Gapi proccess cost 27 ms.
 ------------
 
 本文由芒果浩明发布，转载请注明出处。
-本文链接：https://mangoroom.cn/opencv/optimization-methods-in-opencv-1.html
+本文链接：https://blog.mangoroom.cn/opencv/optimization-methods-in-opencv-1.html

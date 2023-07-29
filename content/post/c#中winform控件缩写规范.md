@@ -3,7 +3,7 @@ title: "c#中winform控件缩写规范"
 categories: [ "DotNet" ]
 tags: [ "c#","winform" ]
 draft: false
-slug: "winform-controls-abbreviated-in-csharp"
+slug: "DotNet/winform-controls-abbreviated-in-csharp"
 date: "2019-09-02 21:49:00"
 ---
 

@@ -3,7 +3,7 @@ title: "平均绝对误差MAE圆拟合"
 categories: [ "opencv","算法","计算机视觉" ]
 tags: [ "图像处理","图像处理算法" ]
 draft: false
-slug: "mean-absolute-error-circle-fit"
+slug: "opencv/mean-absolute-error-circle-fit"
 date: "2020-05-08 14:44:00"
 ---
 
@@ -312,7 +312,7 @@ CircleFit::~CircleFit()
 --------------------
 
 本文由芒果浩明发布，转载请注明出处。
-本文链接：https://mangoroom.cn/opencv/mean-absolute-error-circle-fit.html
+本文链接：https://blog.mangoroom.cn/opencv/mean-absolute-error-circle-fit.html
 
   [1]: https://mangoroom.cn/usr/uploads/2020/05/3884456168.png
   [2]: https://mangoroom.cn/usr/uploads/2020/05/1422078333.png

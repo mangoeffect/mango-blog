@@ -3,7 +3,7 @@ title: "opencv渲染中文字符"
 categories: [ "opencv","c++","计算机视觉" ]
 tags: [ "opencv","图像处理","计算机视觉","渲染","puttext" ]
 draft: false
-slug: "opencv-puttext-chinese-characters"
+slug: "opencv/opencv-puttext-chinese-characters"
 date: "2019-11-09 11:20:00"
 ---
 
@@ -313,7 +313,7 @@ void putTextZh(InputOutputArray 	img,
 ---
 
 本文由芒果浩明发布，转载请注明来源。
-本文链接：https://mangoroom.cn/opencv/opencv-puttext-chinese-characters.html
+本文链接：https://blog.mangoroom.cn/opencv/opencv-puttext-chinese-characters.html
 
   [1]: https://mangoroom.cn/usr/uploads/2019/11/3596229788.png
   [2]: https://mangoroom.cn/usr/uploads/2019/11/1225716949.png

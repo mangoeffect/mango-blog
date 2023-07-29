@@ -3,7 +3,7 @@ title: "OpenCV像素访问性能测试"
 categories: [ "opencv" ]
 tags: [ "opencv","opencv调试" ]
 draft: false
-slug: "test-access-pixels-efficiency-on-opencv"
+slug: "opencv/test-access-pixels-efficiency-on-opencv"
 date: "2020-05-21 21:02:00"
 ---
 

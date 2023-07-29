@@ -3,7 +3,7 @@ title: "opencv滤镜-PS羽化特效"
 categories: [ "opencv","滤镜" ]
 tags: [ "opencv","图像处理","图像处理算法","滤镜","羽化","PS" ]
 draft: false
-slug: "feather-effect-filter"
+slug: "opencv/feather-effect-filter"
 date: "2019-07-04 23:24:00"
 ---
 
@@ -114,7 +114,7 @@ int main()
 ---
 
 本文由芒果浩明发布，转载请注明来源。
-本文链接：https://mangoroom.cn/opencv/feather-effect-filter.html
+本文链接：https://blog.mangoroom.cn/opencv/feather-effect-filter.html
 
 
   [1]: https://mangoroom.cn/usr/uploads/2019/07/2531801425.png

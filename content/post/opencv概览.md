@@ -3,7 +3,7 @@ title: "opencv概览"
 categories: [ "opencv" ]
 tags: [ "opencv","图像处理","计算机视觉" ]
 draft: false
-slug: "opencv-overview"
+slug: "opencv/opencv-overview"
 date: "2019-06-15 08:11:00"
 ---
 
@@ -77,7 +77,7 @@ opencv的编写语言为c/c++，得益于c/c++的高效率，加上代码质量�
 opencv广泛应用在各个行业领域，卫星遥感、医学图像、安防监控、面向工业的机器视觉、无人机还有军事应用等等。
 
 文章由芒果浩明发布，转载需注明来源。
-本文链接：https://mangoroom.cn/opencv/opencv-overview.html
+本文链接：https://blog.mangoroom.cn/opencv/opencv-overview.html
 
   [1]: https://mangoroom.cn/usr/uploads/2019/06/2173217119.png
   [2]: https://mangoroom.cn/usr/uploads/2019/06/1845801143.png

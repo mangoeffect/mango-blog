@@ -3,7 +3,7 @@ title: "Mint-Linux安装cuda10.1以及cuDNN"
 categories: [ "计算机视觉" ]
 tags: [ "cuda","linux" ]
 draft: false
-slug: "install-cuda-and-cudnn-on-mint-linux"
+slug: "计算机视觉/install-cuda-and-cudnn-on-mint-linux"
 date: "2020-03-18 09:54:00"
 ---
 
@@ -96,7 +96,7 @@ sudo apt install g++
 
 ------
 本文由芒果浩明发布，转载请注明出处。
-本文链接：https://mangoroom.cn/computer-vision/install-cuda-and-cudnn-on-mint-linux.html
+本文链接：https://blog.mangoroom.cn/computer-vision/install-cuda-and-cudnn-on-mint-linux.html
 
   [1]: https://mangoroom.cn/usr/uploads/2020/03/2653844065.png
   [2]: https://mangoroom.cn/usr/uploads/2020/03/3707101071.png

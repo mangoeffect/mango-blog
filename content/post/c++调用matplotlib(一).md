@@ -3,7 +3,7 @@ title: "c++调用matplotlib(一)"
 categories: [ "c++","工具" ]
 tags: [ "c++","cmake","matplotlib","vs" ]
 draft: false
-slug: "call-matplotlib-on-cpp"
+slug: "cpp/call-matplotlib-on-cpp"
 date: "2020-05-12 15:02:00"
 ---
 
@@ -500,7 +500,7 @@ int main()
 -----
 
 本文由芒果浩明发布，转载请注明出处。
-本文链接：https://mangoroom.cn/cpp/call-matplotlib-on-cpp.html
+本文链接：https://blog.mangoroom.cn/cpp/call-matplotlib-on-cpp.html
 
   [1]: https://mangoroom.cn/usr/uploads/2020/05/577206688.png
   [2]: https://mangoroom.cn/usr/uploads/2020/05/534191068.png

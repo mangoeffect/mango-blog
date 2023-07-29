@@ -3,7 +3,7 @@ title: "c++实现二维卷积"
 categories: [ "算法" ]
 tags: [ "图像处理","图像处理算法","c++","算法","卷积" ]
 draft: false
-slug: "convolution-by-cpp"
+slug: "algorithm/convolution-by-cpp"
 date: "2019-05-29 08:58:00"
 ---
 
@@ -114,4 +114,4 @@ std::vector<std::vector<int> > conv2(std::vector<std::vector<int> > filter, std:
 --- 
 
 本文由芒果浩明发布，转载需注明来源。
-本文链接：https://mangoroom.cn/algorithm/convolution-by-cpp.html
+本文链接：https://blog.mangoroom.cn/algorithm/convolution-by-cpp.html

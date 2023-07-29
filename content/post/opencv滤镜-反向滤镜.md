@@ -3,7 +3,7 @@ title: "opencv滤镜-反向滤镜"
 categories: [ "opencv","滤镜" ]
 tags: [ "opencv","图像处理","图像处理算法","滤镜","颜色反转" ]
 draft: false
-slug: "reversal-filter"
+slug: "opencv/reversal-filter"
 date: "2019-07-02 23:02:00"
 ---
 
@@ -51,6 +51,6 @@ date: "2019-07-02 23:02:00"
 ---
 
 本文由芒果浩明发布，转载请注明来源。
-本文链接：https://mangoroom.cn/opencv/reversal-filter.html
+本文链接：https://blog.mangoroom.cn/opencv/reversal-filter.html
 
   [1]: https://mangoroom.cn/usr/uploads/2019/07/4197090750.png

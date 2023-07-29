@@ -3,7 +3,7 @@ title: "使用lambda表达式对自定义对象数组进行排序"
 categories: [ "c++" ]
 tags: [ "c++","lambda","sort" ]
 draft: false
-slug: "use-lambda-to-sort-custom-object-array"
+slug: "cpp/use-lambda-to-sort-custom-object-array"
 date: "2020-06-12 15:49:00"
 ---
 
@@ -411,6 +411,6 @@ int main()
 -----
 
 本文由芒果浩明发布，转载请注明出处。
-本文链接：https://mangoroom.cn/cpp/use-lambda-to-sort-custom-object-array.html
+本文链接：https://blog.mangoroom.cn/cpp/use-lambda-to-sort-custom-object-array.html
 
   [1]: https://mangoroom.cn/usr/uploads/2020/06/1197349793.png

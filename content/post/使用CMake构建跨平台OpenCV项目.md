@@ -3,7 +3,7 @@ title: "使用CMake构建跨平台OpenCV项目"
 categories: [ "opencv","c++" ]
 tags: [  ]
 draft: false
-slug: "opencv-cmake-example"
+slug: "opencv/opencv-cmake-example"
 date: "2020-09-22 13:35:00"
 ---
 
@@ -196,7 +196,7 @@ make
 ---------------
 
 本文由芒果浩明发布，转载请注明出处。
-本文链接：https://mangoroom.cn/opencv/opencv-cmake-example.html
+本文链接：https://blog.mangoroom.cn/opencv/opencv-cmake-example.html
 
   [1]: https://mangoroom.cn/usr/uploads/2020/09/2557444240.png
   [2]: https://mangoroom.cn/usr/uploads/2020/09/3666645826.png

@@ -3,7 +3,7 @@ title: "Window平台基于CMake与linaro交叉编译arm程序"
 categories: [ "工具" ]
 tags: [ "cmake","linaro","cross-compiling","windows","mingw" ]
 draft: false
-slug: "how-to-use-linaro-and-cmake-compile-arm-program-on-windows"
+slug: "tools/how-to-use-linaro-and-cmake-compile-arm-program-on-windows"
 date: "2021-03-14 20:42:00"
 ---
 
@@ -181,7 +181,7 @@ cmake_install.cmake  CMakeFiles/  libadd.so  Makefile
 -----------------
 
 本文由芒果浩明发布，转载请注明出处。
-本文链接：https://mangoroom.cn/tools/how-to-use-linaro-and-cmake-compile-arm-program-on-windows.html
+本文链接：https://blog.mangoroom.cn/tools/how-to-use-linaro-and-cmake-compile-arm-program-on-windows.html
 
   [1]: https://mangoroom.cn/usr/uploads/2021/03/3735418504.png
   [2]: https://mangoroom.cn/usr/uploads/2021/03/2486819531.png

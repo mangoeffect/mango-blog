@@ -3,7 +3,7 @@ title: "opencv滤镜-连环画滤镜"
 categories: [ "opencv","滤镜" ]
 tags: [ "opencv","图像处理","图像处理算法","滤镜","连环画" ]
 draft: false
-slug: "comic-filter"
+slug: "opencv/comic-filter"
 date: "2019-07-03 12:00:06"
 ---
 
@@ -63,7 +63,7 @@ int main()
 ---
 
 本文由芒果浩明发布，转载请注明来源。
-本文链接：https://mangoroom.cn/opencv/comic-filter.html
+本文链接：https://blog.mangoroom.cn/opencv/comic-filter.html
 
   [1]: https://mangoroom.cn/usr/uploads/2019/07/720430173.png
   [2]: https://mangoroom.cn/usr/uploads/2019/07/2420844271.png

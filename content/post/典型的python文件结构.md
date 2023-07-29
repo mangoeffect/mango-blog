@@ -3,7 +3,7 @@ title: "典型的python文件结构"
 categories: [ "python" ]
 tags: [ "python" ]
 draft: false
-slug: "typical-python-file-structure"
+slug: "python/typical-python-file-structure"
 date: "2019-05-20 15:42:00"
 ---
 
@@ -84,4 +84,4 @@ if __name__=='__main__':            （7）主程序：如果模块是被导入�
 ---
 
 本文由芒果浩明发布，转载需注明来源。
-本文链接：https://mangoroom.cn/python/typical-python-file-structure.html
+本文链接：https://blog.mangoroom.cn/python/typical-python-file-structure.html

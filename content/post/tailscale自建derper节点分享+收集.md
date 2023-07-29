@@ -3,7 +3,7 @@ title: "tailscale自建derper节点分享+收集"
 categories: [ "工具" ]
 tags: [ "tailscale" ]
 draft: false
-slug: "tailscale-custom-derper-relays-share-and-collection"
+slug: "tools/tailscale-custom-derper-relays-share-and-collection"
 date: "2022-03-09 11:21:53"
 ---
 

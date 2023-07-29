@@ -3,7 +3,7 @@ title: "manjaro安装tailscale"
 categories: [ "工具" ]
 tags: [ "linux","tailscale","manjaro" ]
 draft: false
-slug: "install-tailscale-on-manjaro"
+slug: "tools/install-tailscale-on-manjaro"
 date: "2021-12-04 22:44:00"
 ---
 
@@ -67,4 +67,4 @@ SUBCOMMANDS
 ----
 
 本文由芒果浩明发布，转载请注明出处。
-本文链接：https://mangoroom.cn/tools/install-tailscale-on-manjaro.html
+本文链接：https://blog.mangoroom.cn/tools/install-tailscale-on-manjaro.html

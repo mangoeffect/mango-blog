@@ -3,7 +3,7 @@ title: "opencv-4.5.4更新内容"
 categories: [ "opencv" ]
 tags: [ "opencv","tbb","openmp","openvino","avx" ]
 draft: false
-slug: "opencv-4-5-4-update-change-log"
+slug: "opencv/opencv-4-5-4-update-change-log"
 date: "2021-10-14 20:51:00"
 ---
 
@@ -50,5 +50,5 @@ OpenCV4.5.4剩余的更新部分没什么新增的功能，剩余很大的一部
 ----------
 
 本文由芒果浩明发布，转载请注明出处。
-本文链接：https://mangoroom.cn/opencv/opencv-4-5-4-update-change-log.html
+本文链接：https://blog.mangoroom.cn/opencv/opencv-4-5-4-update-change-log.html
 

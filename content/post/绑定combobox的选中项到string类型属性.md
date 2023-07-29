@@ -3,7 +3,7 @@ title: "绑定combobox的选中项到string类型属性"
 categories: [ "DotNet" ]
 tags: [ "wpf","combobox","绑定","SelectedItem","string" ]
 draft: false
-slug: "bind-string-property-to-combobox-selecteditem"
+slug: "DotNet/bind-string-property-to-combobox-selecteditem"
 date: "2019-08-21 16:48:00"
 ---
 
@@ -73,4 +73,4 @@ MyProperty绑定SelectedItem或SelectedValue，则会出现的问题是 MyProper
 ---
 
 本文由芒果浩明发布，转载请注明来源。
-本文链接：https://mangoroom.cn/donet/bind-string-property-to-combobox-selecteditem.html
+本文链接：https://blog.mangoroom.cn/donet/bind-string-property-to-combobox-selecteditem.html

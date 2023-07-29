@@ -3,7 +3,7 @@ title: "python安装opencv"
 categories: [ "opencv" ]
 tags: [ "opencv","图像处理","计算机视觉","python","conda" ]
 draft: false
-slug: "python-install-opencv"
+slug: "opencv/python-install-opencv"
 date: "2019-05-18 16:05:00"
 ---
 
@@ -83,7 +83,7 @@ conda install --channel https://conda.anaconda.org/menpo opencv3
 ---
 
 本文由芒果浩明发布，转载需注明来源。
-本文链接：https://mangoroom.cn/opencv/python-install-opencv.html
+本文链接：https://blog.mangoroom.cn/opencv/python-install-opencv.html
 
 
   [1]: https://mangoroom.cn/usr/uploads/2019/05/2904793903.png

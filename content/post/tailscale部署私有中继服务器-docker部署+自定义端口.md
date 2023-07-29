@@ -3,7 +3,7 @@ title: "tailscale部署私有中继服务器-docker部署+自定义端口"
 categories: [ "工具" ]
 tags: [ "tailscale","derper","docker","derpport" ]
 draft: false
-slug: "tailscale-custom-derper-servers-custom-derpport-base-docker"
+slug: "tools/tailscale-custom-derper-servers-custom-derpport-base-docker"
 date: "2022-03-05 11:17:00"
 ---
 
@@ -139,4 +139,4 @@ tailscale的节点设置与之前类似，但使用了非443端口，需要在�
 ----------
 
 本文由芒果浩明发布，转载请注明出处。
-本文链接：https://mangoroom.cn/tools/tailscale-custom-derper-servers-custom-derpport-base-docker.html
+本文链接：https://blog.mangoroom.cn/tools/tailscale-custom-derper-servers-custom-derpport-base-docker.html

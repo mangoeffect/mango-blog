@@ -3,7 +3,7 @@ title: "opencv滤镜-浮雕雕刻特效"
 categories: [ "opencv","滤镜" ]
 tags: [ "opencv","图像处理","图像处理算法","滤镜","浮雕","雕刻" ]
 draft: false
-slug: "relief-and-carving-filter"
+slug: "opencv/relief-and-carving-filter"
 date: "2019-07-03 14:33:00"
 ---
 
@@ -94,7 +94,7 @@ int main()
 ---
 
 本文由芒果浩明发布，转载请注明来源。
-本文链接：https://mangoroom.cn/opencv/relief-and-carving-filter.html
+本文链接：https://blog.mangoroom.cn/opencv/relief-and-carving-filter.html
 
   [1]: https://mangoroom.cn/usr/uploads/2019/07/2527405033.png
   [2]: https://mangoroom.cn/usr/uploads/2019/07/3292800987.png

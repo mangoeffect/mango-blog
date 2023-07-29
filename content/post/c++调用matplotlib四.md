@@ -3,7 +3,7 @@ title: "c++调用matplotlib四"
 categories: [ "工具" ]
 tags: [ "c++","cmake","matplotlib","vscode","ubuntu" ]
 draft: false
-slug: "call-matplotlib-on-cpp-4"
+slug: "tools/call-matplotlib-on-cpp-4"
 date: "2022-09-28 21:34:00"
 ---
 
@@ -103,7 +103,7 @@ endif()
 ---------
 
 本文由芒果浩明发布，转载请注明出处。
-本文链接：https://mangoroom.cn/tools/call-matplotlib-on-cpp-4.html
+本文链接：https://blog.mangoroom.cn/tools/call-matplotlib-on-cpp-4.html
 
 
 

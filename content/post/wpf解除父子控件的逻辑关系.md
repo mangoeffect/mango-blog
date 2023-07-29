@@ -3,7 +3,7 @@ title: "wpf解除父子控件的逻辑关系"
 categories: [ "DotNet" ]
 tags: [ "c#","wpf" ]
 draft: false
-slug: "unteases-logical-relationship-between-parent-child-controls-in-wpf"
+slug: "DotNet/unteases-logical-relationship-between-parent-child-controls-in-wpf"
 date: "2019-12-13 10:26:00"
 ---
 
@@ -43,4 +43,4 @@ date: "2019-12-13 10:26:00"
 ---
 
 本文由芒果浩明发布，转载请注明来源。
-本文链接：https://mangoroom.cn/donet/unteases-logical-relationship-between-parent-child-controls-in-wpf.html
+本文链接：https://blog.mangoroom.cn/donet/unteases-logical-relationship-between-parent-child-controls-in-wpf.html

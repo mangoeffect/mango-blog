@@ -3,7 +3,7 @@ title: "如何输出opencv编译信息"
 categories: [ "opencv" ]
 tags: [ "opencv","编译","版本" ]
 draft: false
-slug: "how-to-print-compile-info-of-opencv"
+slug: "opencv/how-to-print-compile-info-of-opencv"
 date: "2019-06-27 12:06:00"
 ---
 
@@ -151,4 +151,4 @@ print cv2.getBuildInformation()
 ---
 
 本文由芒果浩明发布，转载请注明来源。
-本文链接：https://mangoroom.cn/opencv/how-to-print-compile-info-of-opencv.html
+本文链接：https://blog.mangoroom.cn/opencv/how-to-print-compile-info-of-opencv.html

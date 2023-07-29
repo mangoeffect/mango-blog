@@ -3,7 +3,7 @@ title: "c++调用matplotlib(二）"
 categories: [ "c++","工具" ]
 tags: [ "c++","cmake","matplotlib" ]
 draft: false
-slug: "call-matplotlib-on-cpp-2-html"
+slug: "cpp/call-matplotlib-on-cpp-2-html"
 date: "2020-09-22 20:25:00"
 ---
 
@@ -133,7 +133,7 @@ cmake -G "Visual Studio 15 2017" ..
 ------------
 
 本文由芒果浩明发布，转载请注明出处。
-本文链接：https://mangoroom.cn/cpp/call-matplotlib-on-cpp-2.html
+本文链接：https://blog.mangoroom.cn/cpp/call-matplotlib-on-cpp-2.html
 
   [1]: https://mangoroom.cn/usr/uploads/2020/09/316835497.png
   [2]: https://mangoroom.cn/usr/uploads/2020/09/1706259781.png

@@ -3,7 +3,7 @@ title: "opencv滤镜-PS扩散特效"
 categories: [ "opencv","滤镜" ]
 tags: [ "opencv","图像处理","图像处理算法","滤镜","PS","扩散" ]
 draft: false
-slug: "ps-diffusion-effect-filter"
+slug: "opencv/ps-diffusion-effect-filter"
 date: "2019-07-05 14:07:22"
 ---
 
@@ -128,7 +128,7 @@ int main()
 ---
 
 本文由芒果浩明发布，转载请注明来源。
-本文链接：https://mangoroom.cn/opencv/ps-diffusion-effect-filter.html
+本文链接：https://blog.mangoroom.cn/opencv/ps-diffusion-effect-filter.html
 
 
   

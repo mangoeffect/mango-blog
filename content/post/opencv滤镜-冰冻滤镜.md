@@ -3,7 +3,7 @@ title: "opencv滤镜-冰冻滤镜"
 categories: [ "opencv","滤镜" ]
 tags: [ "opencv","图像处理","图像处理算法","滤镜","冰冻" ]
 draft: false
-slug: "frozen-filter"
+slug: "opencv/frozen-filter"
 date: "2019-07-03 11:24:00"
 ---
 
@@ -51,7 +51,7 @@ int main()
 ---
 
 本文由芒果浩明发布，转载请注明来源。
-本文链接：https://mangoroom.cn/opencv/frozen-filter.html
+本文链接：https://blog.mangoroom.cn/opencv/frozen-filter.html
 
 ![冰冻滤镜效果.png][2]
 

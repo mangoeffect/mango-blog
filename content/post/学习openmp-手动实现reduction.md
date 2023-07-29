@@ -3,7 +3,7 @@ title: "学习openmp-手动实现reduction"
 categories: [ "并行编程" ]
 tags: [ "openmp","reduction","custom-reduction","openmp2.0" ]
 draft: false
-slug: "learn-openmp-reduction-by-hand-on-oldversion-openmp"
+slug: "并行编程/learn-openmp-reduction-by-hand-on-oldversion-openmp"
 date: "2021-12-10 18:00:00"
 ---
 

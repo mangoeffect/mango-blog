@@ -3,7 +3,7 @@ title: "wetypecho加入latex数学公式支持"
 categories: [ "网站" ]
 tags: [ "typecho","mathjax","wetypecho","latex" ]
 draft: false
-slug: "wetyoeho-support-latex-render"
+slug: "website/wetyoeho-support-latex-render"
 date: "2020-03-01 22:46:00"
 ---
 
@@ -207,7 +207,7 @@ detail.wxml文件约33行，修改为
 ---
 
 本文由芒果浩明发布，转载请注明出处。
-本文链接：https://mangoroom.cn/website/wetyoeho-support-latex-render.html
+本文链接：https://blog.mangoroom.cn/website/wetyoeho-support-latex-render.html
 
 
   [1]: https://mangoroom.cn/usr/uploads/2020/03/1962872533.jpg

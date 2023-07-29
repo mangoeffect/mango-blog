@@ -3,7 +3,7 @@ title: "tailscale部署私有中继服务器"
 categories: [ "工具" ]
 tags: [ "tailscale","frp","derper" ]
 draft: false
-slug: "tailscale-custom-derper-servers"
+slug: "tools/tailscale-custom-derper-servers"
 date: "2021-09-18 21:38:00"
 ---
 
@@ -248,5 +248,5 @@ derper -c=$HOME/derper.conf -hostname=yourhostname.com -stun
 -----------
 
 本文由芒果浩明发布，转载请注明出处。
-本文链接：https://mangoroom.cn/tools/tailscale-custom-derper-servers.html
+本文链接：https://blog.mangoroom.cn/tools/tailscale-custom-derper-servers.html
 

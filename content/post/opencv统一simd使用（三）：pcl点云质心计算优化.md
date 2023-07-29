@@ -3,7 +3,7 @@ title: "opencv统一simd使用（三）：pcl点云质心计算优化"
 categories: [ "opencv","c++","计算机视觉","PCL" ]
 tags: [ "opencv","pcl","openmp","simd","centroid" ]
 draft: false
-slug: "pcl-compute-centroid-optimization-benchmark"
+slug: "opencv/pcl-compute-centroid-optimization-benchmark"
 date: "2021-10-24 23:15:00"
 ---
 
@@ -487,6 +487,6 @@ int main(int argc, char** argv)
 -----------
 
 本文由芒果浩明发布，转载请注明出处。
-本文链接：https://mangoroom.cn/opencv/pcl-compute-centroid-optimization-benchmark.html
+本文链接：https://blog.mangoroom.cn/opencv/pcl-compute-centroid-optimization-benchmark.html
 
   [1]: https://mangoroom.cn/usr/uploads/2021/10/2913189785.png

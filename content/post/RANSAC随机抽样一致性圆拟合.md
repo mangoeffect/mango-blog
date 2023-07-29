@@ -3,7 +3,7 @@ title: "RANSAC随机抽样一致性圆拟合"
 categories: [ "opencv","算法","计算机视觉" ]
 tags: [ "opencv","拟合","ransac","circle-fitting","圆拟合" ]
 draft: false
-slug: "circle-fitting-based-ransac"
+slug: "opencv/circle-fitting-based-ransac"
 date: "2022-01-29 16:56:00"
 ---
 

@@ -3,7 +3,7 @@ title: "PCL直通滤波"
 categories: [ "算法","PCL" ]
 tags: [ "滤波","pcl","直通滤波" ]
 draft: false
-slug: "passthrough-filter-of-pcl"
+slug: "algorithm/passthrough-filter-of-pcl"
 date: "2020-09-28 18:10:00"
 ---
 
@@ -172,7 +172,7 @@ int main(int argc, char** argv)
 ---------
 
 本文由芒果浩明发布，转载请注明出处。
-本文链接：https://mangoroom.cn/algorithm/passthrough-filter-of-pcl.html
+本文链接：https://blog.mangoroom.cn/algorithm/passthrough-filter-of-pcl.html
 
   [1]: https://mangoroom.cn/usr/uploads/2020/09/1501688772.png
   [2]: https://mangoroom.cn/usr/uploads/2020/09/3134548068.png

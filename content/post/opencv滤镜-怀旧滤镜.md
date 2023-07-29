@@ -3,7 +3,7 @@ title: "opencv滤镜-怀旧滤镜"
 categories: [ "opencv","滤镜" ]
 tags: [ "opencv","图像处理","图像处理算法","滤镜","怀旧" ]
 draft: false
-slug: "vintage-filter"
+slug: "opencv/vintage-filter"
 date: "2019-07-03 10:22:00"
 ---
 
@@ -57,7 +57,7 @@ int main()
 ---
 
 本文由芒果浩明发布，转载请注明来源。
-本文链接：https://mangoroom.cn/opencv/vintage-filter.html
+本文链接：https://blog.mangoroom.cn/opencv/vintage-filter.html
 
   [1]: https://mangoroom.cn/usr/uploads/2019/07/2087852825.png
   [2]: https://mangoroom.cn/usr/uploads/2019/07/1926101731.png

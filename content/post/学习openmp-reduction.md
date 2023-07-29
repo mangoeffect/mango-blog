@@ -3,7 +3,7 @@ title: "学习openmp-reduction"
 categories: [ "并行编程" ]
 tags: [ "openmp","reduction","min","max" ]
 draft: false
-slug: "learn-openmp-reduction"
+slug: "并行编程/learn-openmp-reduction"
 date: "2021-12-05 13:52:00"
 ---
 
@@ -103,4 +103,4 @@ openmp支持多个数组的同类型reduction，比如两个数组都需要求�
 -------
 
 本文由芒果浩明发布，转载请注明出处。
-本文链接：https://mangoroom.cn/parallel-programming/learn-openmp-reduction.html
+本文链接：https://blog.mangoroom.cn/parallel-programming/learn-openmp-reduction.html

@@ -3,7 +3,7 @@ title: "opencv官方samples系列4-AddingImages-图像线性混合"
 categories: [ "opencv" ]
 tags: [ "opencv","图像处理","计算机视觉","python","opencv-samples","图像处理算法","c++" ]
 draft: false
-slug: "opencv-sample4-AddingImages"
+slug: "opencv/opencv-sample4-AddingImages"
 date: "2019-05-20 12:13:00"
 ---
 
@@ -264,7 +264,7 @@ if __name__ == "__main__":
 ---
 
 本文由芒果浩明发布，转载需注明来源。
-本文链接：https://mangoroom.cn/opencv/opencv-sample4-AddingImages.html
+本文链接：https://blog.mangoroom.cn/opencv/opencv-sample4-AddingImages.html
 
 
   [1]: https://mangoroom.cn/usr/uploads/2019/05/4129996974.jpg

@@ -3,7 +3,7 @@ title: "pcl-vtk-9.x-viewer嵌入qt窗口显示"
 categories: [ "c++","工具","PCL" ]
 tags: [ "Qt","pcl","vtk","pcl-visualization","qvtkwidget" ]
 draft: false
-slug: "pcl-vtk9-x-viewer-hosted-on-qt-widget"
+slug: "cpp/pcl-vtk9-x-viewer-hosted-on-qt-widget"
 date: "2022-03-04 09:50:00"
 ---
 
@@ -68,4 +68,4 @@ viewer_->setupInteractor(ui_->widget->interactor(), ui_->widget->renderWindow())
 
 -----------
 本文由芒果浩明发布，转载请注明出处。
-本文链接：https://mangoroom.cn/cpp/pcl-vtk9-x-viewer-hosted-on-qt-widget.html
+本文链接：https://blog.mangoroom.cn/cpp/pcl-vtk9-x-viewer-hosted-on-qt-widget.html

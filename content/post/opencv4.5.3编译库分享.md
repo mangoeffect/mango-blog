@@ -3,7 +3,7 @@ title: "opencv4.5.3编译库分享"
 categories: [ "资源分享" ]
 tags: [ "opencv","vs2019","tbb","avx2","32bit" ]
 draft: false
-slug: "opencv-4-5-3-x86-vc16-shared-avx2-world-tbb"
+slug: "资源分享/opencv-4-5-3-x86-vc16-shared-avx2-world-tbb"
 date: "2021-09-13 21:45:00"
 ---
 
@@ -191,5 +191,5 @@ Generating done
 ------
 
 本文由芒果浩明发布，转载请注明出处。
-本文链接：https://mangoroom.cn/shared/opencv-4.5.3-x86-vc16-shared-avx2-world-tbb.html
+本文链接：https://blog.mangoroom.cn/shared/opencv-4.5.3-x86-vc16-shared-avx2-world-tbb.html
 

@@ -3,7 +3,7 @@ title: "csdn关闭普通用户自定义栏目"
 categories: [ "网站" ]
 tags: [ "博客","csdn" ]
 draft: false
-slug: "csdn-closed-custom-column-for-common-user"
+slug: "website/csdn-closed-custom-column-for-common-user"
 date: "2019-06-26 13:39:00"
 ---
 
@@ -103,7 +103,7 @@ lilai619
 --- 
 
 本文由芒果浩明发布，转载请注明来源。
-本文链接：https://mangoroom.cn/website/csdn-closed-custom-column-for-common-user.html
+本文链接：https://blog.mangoroom.cn/website/csdn-closed-custom-column-for-common-user.html
 
   [1]: https://mangoroom.cn/usr/uploads/2019/06/1117439585.png
   [2]: https://mangoroom.cn/usr/uploads/2019/06/4289386239.png

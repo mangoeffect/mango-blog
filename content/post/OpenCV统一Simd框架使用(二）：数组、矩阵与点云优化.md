@@ -3,7 +3,7 @@ title: "OpenCV统一Simd框架使用(二）：数组、矩阵与点云优化"
 categories: [ "opencv","c++","计算机视觉" ]
 tags: [ "opencv","openmp","avx","simd","universal-inrinsics","sse","neo","mat","vector","cloud" ]
 draft: false
-slug: "opencv-universal-intrinsics-simd-2"
+slug: "opencv/opencv-universal-intrinsics-simd-2"
 date: "2021-10-21 18:57:00"
 ---
 
@@ -1444,4 +1444,4 @@ int main(int argc, char** argv)
 --------
 
 本文由芒果浩明发布，转载请注明出处。
-本文链接：https://mangoroom.cn/opencv/opencv-universal-intrinsics-simd-2.html
+本文链接：https://blog.mangoroom.cn/opencv/opencv-universal-intrinsics-simd-2.html

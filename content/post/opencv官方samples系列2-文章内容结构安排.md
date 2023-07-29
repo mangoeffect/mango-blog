@@ -3,7 +3,7 @@ title: "opencv官方samples系列2-文章内容结构安排"
 categories: [ "opencv" ]
 tags: [ "规划","博客","opencv","计算机视觉","opencv-samples" ]
 draft: false
-slug: "opencv-samples-article-plan"
+slug: "opencv/opencv-samples-article-plan"
 date: "2019-05-19 01:07:00"
 ---
 
@@ -71,4 +71,4 @@ date: "2019-05-19 01:07:00"
 --- 
 
 本文由芒果浩明发布，转载需注明来源。
-本文链接：https://mangoroom.cn/opencv/opencv-samples-article-plan.html
+本文链接：https://blog.mangoroom.cn/opencv/opencv-samples-article-plan.html

@@ -3,7 +3,7 @@ title: "opencv学习之读取图像-imread函数"
 categories: [ "opencv" ]
 tags: [ "opencv","c++","imread" ]
 draft: false
-slug: "opencv-learning-imread"
+slug: "opencv/opencv-learning-imread"
 date: "2019-05-22 12:37:00"
 ---
 
@@ -133,4 +133,4 @@ opencv的官方文档document其实是一份非常好的资料，关于opencv的
 ---
 
 本文由芒果浩明发布，转载需注明来源。
-本文链接：https://mangoroom.cn/opencv/opencv-learning-imread.html
+本文链接：https://blog.mangoroom.cn/opencv/opencv-learning-imread.html

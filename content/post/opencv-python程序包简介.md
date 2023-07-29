@@ -3,7 +3,7 @@ title: "opencv-python程序包简介"
 categories: [ "opencv" ]
 tags: [ "opencv","图像处理","计算机视觉","python" ]
 draft: false
-slug: "opencv-python-introduction"
+slug: "opencv/opencv-python-introduction"
 date: "2019-05-18 17:48:00"
 ---
 
@@ -65,4 +65,4 @@ opencv-python程序包是发布在PyPi网站上的一个opencv的python接口程
 ---
 
 本文由芒果浩明发布，转载需注明来源。
-本文链接：https://mangoroom.cn/opencv/opencv-python-introduction.html
+本文链接：https://blog.mangoroom.cn/opencv/opencv-python-introduction.html

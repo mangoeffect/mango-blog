@@ -3,7 +3,7 @@ title: "Lab颜色空间"
 categories: [ "opencv" ]
 tags: [ "opencv","图像处理","颜色空间","Lab" ]
 draft: false
-slug: "lab-color-space"
+slug: "opencv/lab-color-space"
 date: "2019-07-02 14:26:00"
 ---
 
@@ -79,6 +79,6 @@ reference
 ---
 
 本文由芒果浩明发布，转载请注明来源。
-本文链接：https://mangoroom.cn/opencv/lab-color-space.html
+本文链接：https://blog.mangoroom.cn/opencv/lab-color-space.html
 
   [1]: https://mangoroom.cn/usr/uploads/2019/07/2930894543.png

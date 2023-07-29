@@ -3,7 +3,7 @@ title: "opencv学习之等待按键事件-waitKey函数"
 categories: [ "opencv" ]
 tags: [ "opencv","c++","waitKey" ]
 draft: false
-slug: "opencv-learning-waitKey"
+slug: "opencv/opencv-learning-waitKey"
 date: "2019-06-07 22:57:00"
 ---
 
@@ -125,4 +125,4 @@ waitKey函数是非常简单而且常见的，开始入门的时候需要掌握�
 ---
 
 本文由芒果浩明发布，转载需注明来源。
-本文链接：https://mangoroom.cn/opencv/opencv-learning-waitKey.html
+本文链接：https://blog.mangoroom.cn/opencv/opencv-learning-waitKey.html

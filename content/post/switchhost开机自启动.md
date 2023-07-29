@@ -3,7 +3,7 @@ title: "switchhost开机自启动"
 categories: [ "工具" ]
 tags: [ "windows","switchhost","host","auto-start" ]
 draft: false
-slug: "auto-start-switchhost"
+slug: "tools/auto-start-switchhost"
 date: "2021-11-15 21:41:00"
 ---
 
@@ -38,7 +38,7 @@ C:\Users\UserName\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
 --------
 
 本文由芒果浩明发布，转载请注明出处。
-本文链接：https://mangoroom.cn/tools/auto-start-switchhost.html
+本文链接：https://blog.mangoroom.cn/tools/auto-start-switchhost.html
 
   [1]: https://mangoroom.cn/usr/uploads/2021/11/2544566701.png
   [2]: https://mangoroom.cn/usr/uploads/2021/11/2859206002.png

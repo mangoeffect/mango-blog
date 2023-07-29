@@ -3,7 +3,7 @@ title: "hpc优化for循环分支预测2"
 categories: [ "c++","HPC" ]
 tags: [ "c++","for","hpc","if","else" ]
 draft: false
-slug: "hpc-branch-prediction-loop-for02"
+slug: "cpp/hpc-branch-prediction-loop-for02"
 date: "2022-05-23 00:06:00"
 ---
 

@@ -3,7 +3,7 @@ title: "几经折腾，我最后还是选择了typeho"
 categories: [ "网站" ]
 tags: [ "网站","博客","typecho" ]
 draft: false
-slug: "blog-select"
+slug: "website/blog-select"
 date: "2019-05-08 10:00:00"
 ---
 
@@ -176,7 +176,7 @@ markdown一直是芒果非常看重的一个点，自带的markdown编辑器芒�
 ---
 
 本文由芒果浩明发布，转载需注明来源
-本文链接：https://mangoroom.cn/website/blog-select.html
+本文链接：https://blog.mangoroom.cn/website/blog-select.html
 
 
   [1]: https://mangoroom.cn/usr/uploads/2019/05/858647314.jpg

@@ -3,7 +3,7 @@ title: "opencv简介"
 categories: [ "opencv" ]
 tags: [ "opencv","计算机视觉" ]
 draft: false
-slug: "opencv-introduction"
+slug: "opencv/opencv-introduction"
 date: "2019-05-08 14:59:00"
 ---
 
@@ -91,7 +91,7 @@ OpenCV的第二个主要版本是2009年10月的OpenCV      2.0。该版本的�
 ---
 
 本文由芒果浩明发布，转载需注明来源。
-本文链接：https://mangoroom.cn/opencv/opencv-introduction.html
+本文链接：https://blog.mangoroom.cn/opencv/opencv-introduction.html
 
 
   [1]: https://mangoroom.cn/usr/uploads/2019/05/2013593432.png

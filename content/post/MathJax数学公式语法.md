@@ -3,7 +3,7 @@ title: "MathJax数学公式语法"
 categories: [ "工具" ]
 tags: [ "mathjax" ]
 draft: false
-slug: "mathjax-mathematical-formula-syntax"
+slug: "tools/mathjax-mathematical-formula-syntax"
 date: "2019-12-31 22:22:00"
 ---
 
@@ -253,6 +253,6 @@ MathJax是一个跨浏览器的JavaScript库，它使用MathML、LaTeX和ASCIIMa
 ---
 
 本文由芒果浩明发布，转载请注明来源。
-本文链接：https://mangoroom.cn/tools/mathjax-mathematical-formula-syntax.html
+本文链接：https://blog.mangoroom.cn/tools/mathjax-mathematical-formula-syntax.html
 
 [1]: https://mangoroom.cn/usr/uploads/2019/12/3471172013.png

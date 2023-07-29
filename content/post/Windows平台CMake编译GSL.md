@@ -3,7 +3,7 @@ title: "Windows平台CMake编译GSL"
 categories: [ "工具" ]
 tags: [ "visual studio","cmake","GSL" ]
 draft: false
-slug: "use-cmake-build-gsl-on-windows"
+slug: "tools/use-cmake-build-gsl-on-windows"
 date: "2020-04-28 22:40:00"
 ---
 
@@ -62,7 +62,7 @@ J0(5) = -1.775967713143382642e-01
 ---------
 
 本文由芒果浩明发布，转载请注明出处。
-本文链接：https://mangoroom.cn/tools/use-cmake-build-gsl-on-windows.html
+本文链接：https://blog.mangoroom.cn/tools/use-cmake-build-gsl-on-windows.html
 
   [1]: https://mangoroom.cn/usr/uploads/2020/04/122212023.png
   [2]: https://mangoroom.cn/usr/uploads/2020/04/4038256655.png

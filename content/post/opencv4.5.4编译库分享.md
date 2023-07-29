@@ -3,7 +3,7 @@ title: "opencv4.5.4编译库分享"
 categories: [ "opencv","资源分享" ]
 tags: [ "opencv","vs2019","openmp","avx","opencv-4.5.4" ]
 draft: false
-slug: "opencv-4-5-4-x64-vc16-shared-avx2-sse-world-openmp"
+slug: "opencv/opencv-4-5-4-x64-vc16-shared-avx2-sse-world-openmp"
 date: "2021-10-16 19:32:00"
 ---
 
@@ -43,4 +43,4 @@ opencv-4.5.4更新内容上一篇文章做了介绍
 -------------
 
 本文由芒果浩明发布，转载请注明出处。
-本文链接：https://mangoroom.cn/opencv/opencv-4-5-4-x64-vc16-shared-avx2-sse-world-openmp.html
+本文链接：https://blog.mangoroom.cn/opencv/opencv-4-5-4-x64-vc16-shared-avx2-sse-world-openmp.html

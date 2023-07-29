@@ -3,7 +3,7 @@ title: "c++四种安全类型显示转换"
 categories: [ "c++" ]
 tags: [ "c++","c","编程语言","cast" ]
 draft: false
-slug: "cpp-four-types-cast"
+slug: "cpp/cpp-four-types-cast"
 date: "2019-06-16 10:13:00"
 ---
 
@@ -164,4 +164,4 @@ int k = reinterpret_cast<int>(str);// Programming intent is clear.
     
 
 本文由芒果浩明发布，转载需注明来源。
-本文链接：https://mangoroom.cn/cpp/cpp-four-types-cast.html
+本文链接：https://blog.mangoroom.cn/cpp/cpp-four-types-cast.html

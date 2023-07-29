@@ -3,7 +3,7 @@ title: "opencv程序优化技巧3-UMat"
 categories: [ "opencv","c++","计算机视觉" ]
 tags: [ "opencv","opencl","umat","gpu" ]
 draft: false
-slug: "optimization-methods-in-opencv-3"
+slug: "opencv/optimization-methods-in-opencv-3"
 date: "2022-05-16 21:53:31"
 ---
 
@@ -144,4 +144,4 @@ int main(int argc, char** argv)
 ----------
 
 本文由芒果浩明发布，转载请注明出处。
-本文链接：https://mangoroom.cn/opencv/optimization-methods-in-opencv-3.html
+本文链接：https://blog.mangoroom.cn/opencv/optimization-methods-in-opencv-3.html

@@ -3,7 +3,7 @@ title: "vs2019编译opencv"
 categories: [ "opencv" ]
 tags: [ "opencv","vs2019","visual studio","编译","cmake" ]
 draft: false
-slug: "vs2019-compile-opencv"
+slug: "opencv/vs2019-compile-opencv"
 date: "2019-06-10 14:57:00"
 ---
 
@@ -134,7 +134,7 @@ lib文件夹为静态链接库文件。
 ---
 
 本文由芒果浩明发布，转载需注明来源。
-本文链接：https://mangoroom.cn/opencv/vs2019-compile-opencv.html
+本文链接：https://blog.mangoroom.cn/opencv/vs2019-compile-opencv.html
 
   [1]: https://mangoroom.cn/usr/uploads/2019/06/1057683543.png
   [2]: https://mangoroom.cn/usr/uploads/2019/06/1067239098.png

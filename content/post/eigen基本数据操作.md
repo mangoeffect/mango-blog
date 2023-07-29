@@ -3,7 +3,7 @@ title: "eigen基本数据操作"
 categories: [ "Eigen" ]
 tags: [ "eigen" ]
 draft: false
-slug: "data-type-manipulation-in-eigen"
+slug: "Eigen/data-type-manipulation-in-eigen"
 date: "2021-10-12 18:31:00"
 ---
 
@@ -400,4 +400,4 @@ inv:
 -------------
 
 本文由芒果浩明发布，转载请注明出处。
-本文链接：https://mangoroom.cn/eigen/data-type-manipulation-in-eigen.html
+本文链接：https://blog.mangoroom.cn/eigen/data-type-manipulation-in-eigen.html

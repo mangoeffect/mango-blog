@@ -3,7 +3,7 @@ title: "opencv官方samples系列1-samples概览"
 categories: [ "opencv" ]
 tags: [ "opencv","图像处理","计算机视觉","opencv-samples" ]
 draft: false
-slug: "opencv-sample1-overview"
+slug: "opencv/opencv-sample1-overview"
 date: "2019-05-18 21:02:00"
 ---
 
@@ -703,4 +703,4 @@ d-----        1/28/2019  10:56 AM                tutorial_code
 ---
 
 本文由芒果浩明发布，转载需注明来源。
-本文链接：https://mangoroom.cn/opencv/opencv-sample1-overview.html
+本文链接：https://blog.mangoroom.cn/opencv/opencv-sample1-overview.html

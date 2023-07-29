@@ -3,7 +3,7 @@ title: "cmake快速上手"
 categories: [ "工具" ]
 tags: [ "opencv","cmake","Qt","pcl","openmp" ]
 draft: false
-slug: "cmake-hands-on"
+slug: "tools/cmake-hands-on"
 date: "2021-12-04 10:21:00"
 ---
 

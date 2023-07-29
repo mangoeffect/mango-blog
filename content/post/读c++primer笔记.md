@@ -3,7 +3,7 @@ title: "读c++primer笔记"
 categories: [ "c++" ]
 tags: [ "c++","读书笔记","笔记" ]
 draft: false
-slug: "reading-notes-of-cpp-primer"
+slug: "cpp/reading-notes-of-cpp-primer"
 date: "2019-06-25 17:11:00"
 ---
 
@@ -277,4 +277,4 @@ date: "2019-06-25 17:11:00"
 ---
 
 本文由芒果浩明发布，转载请注明来源。
-本文链接：https://mangoroom.cn/cpp/reading-notes-of-cpp-primer.html
+本文链接：https://blog.mangoroom.cn/cpp/reading-notes-of-cpp-primer.html

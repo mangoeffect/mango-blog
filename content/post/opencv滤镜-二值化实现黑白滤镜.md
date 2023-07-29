@@ -3,7 +3,7 @@ title: "opencv滤镜-二值化实现黑白滤镜"
 categories: [ "opencv","滤镜" ]
 tags: [ "opencv","图像处理","滤镜","黑白","二值化" ]
 draft: false
-slug: "create-black-and-white-filter-by-binarization"
+slug: "opencv/create-black-and-white-filter-by-binarization"
 date: "2019-07-02 19:01:00"
 ---
 
@@ -89,6 +89,6 @@ int main()
 ---
 
 本文由芒果浩明发布，转载请注明来源。
-本文链接：https://mangoroom.cn/opencv/create-black-and-white-filter-by-binarization.html
+本文链接：https://blog.mangoroom.cn/opencv/create-black-and-white-filter-by-binarization.html
 
   [1]: https://mangoroom.cn/usr/uploads/2019/07/541386822.png

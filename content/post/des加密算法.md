@@ -3,7 +3,7 @@ title: "des加密算法"
 categories: [ "算法" ]
 tags: [ "c++","加密","des" ]
 draft: false
-slug: "des-encryption"
+slug: "algorithm/des-encryption"
 date: "2019-06-19 16:40:00"
 ---
 

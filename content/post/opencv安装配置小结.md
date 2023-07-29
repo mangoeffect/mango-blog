@@ -3,7 +3,7 @@ title: "opencv安装配置小结"
 categories: [ "opencv" ]
 tags: [ "opencv","图像处理","计算机视觉" ]
 draft: false
-slug: "opencv-installation-and-setting-summary"
+slug: "opencv/opencv-installation-and-setting-summary"
 date: "2019-06-21 18:15:00"
 ---
 
@@ -282,4 +282,4 @@ int main()
 --- 
 
 本文有芒果浩明发布，转载请注明链接。
-本文链接：https://mangoroom.cn/opencv/opencv-installation-and-setting-summary.html
+本文链接：https://blog.mangoroom.cn/opencv/opencv-installation-and-setting-summary.html

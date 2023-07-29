@@ -3,7 +3,7 @@ title: "windows平台CMake配置GSL"
 categories: [ "c++","工具" ]
 tags: [ "c++","cmake","GSL" ]
 draft: false
-slug: "cmake-configure-gsl-on-windows"
+slug: "cpp/cmake-configure-gsl-on-windows"
 date: "2020-09-23 18:49:00"
 ---
 
@@ -141,5 +141,5 @@ J0(5) = -1.775967713143382642e-01
 -------------
 
 本文由芒果浩明发布，转载请注明出处。
-本文链接：https://mangoroom.cn/cpp/cmake-configure-gsl-on-windows.html
+本文链接：https://blog.mangoroom.cn/cpp/cmake-configure-gsl-on-windows.html
 

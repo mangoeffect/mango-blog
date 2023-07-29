@@ -3,7 +3,7 @@ title: "打印输出opencv的版本信息"
 categories: [ "opencv" ]
 tags: [ "opencv","版本" ]
 draft: false
-slug: "print-opencv-version-info"
+slug: "opencv/print-opencv-version-info"
 date: "2019-06-27 10:59:00"
 ---
 
@@ -105,4 +105,4 @@ if ( CV_MAJOR_VERSION >= 4)
 ---
 
 本文由芒果浩明发布，转载请注明来源。
-本文链接：https://mangoroom.cn/opencv/print-opencv-version-info.html
+本文链接：https://blog.mangoroom.cn/opencv/print-opencv-version-info.html

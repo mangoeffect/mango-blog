@@ -3,7 +3,7 @@ title: "cmake使用eigen"
 categories: [ "Eigen" ]
 tags: [ "cmake","eigen","eigen-3.4.0" ]
 draft: false
-slug: "use-eigen-in-cmake"
+slug: "Eigen/use-eigen-in-cmake"
 date: "2021-09-23 08:31:00"
 ---
 
@@ -81,7 +81,7 @@ Eigen version is:
 -------
 
 本文由芒果浩明发布，转载请注明出处。
-本文链接：https://mangoroom.cn/eigen/use-eigen-in-cmake.html
+本文链接：https://blog.mangoroom.cn/eigen/use-eigen-in-cmake.html
 
 
 

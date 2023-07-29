@@ -3,7 +3,7 @@ title: "pcl计算点云分辨率"
 categories: [ "PCL" ]
 tags: [ "pcl","resolution" ]
 draft: false
-slug: "how-to-compute-resolution-of-cloud"
+slug: "PCL/how-to-compute-resolution-of-cloud"
 date: "2020-10-09 20:22:00"
 ---
 
@@ -69,4 +69,4 @@ double MatchModel::ComputeCloudResolution(const pcl::PointCloud<pcl::PointXYZ>::
 ------------
 
 本文由芒果浩明发布，转载请注明出处。
-本文链接：https://mangoroom.cn/pcl/how-to-compute-resolution-of-cloud.html
+本文链接：https://blog.mangoroom.cn/pcl/how-to-compute-resolution-of-cloud.html

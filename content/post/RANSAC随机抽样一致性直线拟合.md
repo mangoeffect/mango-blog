@@ -3,7 +3,7 @@ title: "RANSAC随机抽样一致性直线拟合"
 categories: [ "opencv","算法","计算机视觉" ]
 tags: [ "opencv","拟合","ransac","line-fitting" ]
 draft: false
-slug: "line-fitting-based-ransac"
+slug: "opencv/line-fitting-based-ransac"
 date: "2022-01-20 18:29:00"
 ---
 

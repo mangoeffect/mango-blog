@@ -3,7 +3,7 @@ title: "opencv代替imagewatch插件的调试方式"
 categories: [ "opencv","计算机视觉" ]
 tags: [ "opencv","imshow","imagewatch","opengl","opencv调试","Qt" ]
 draft: false
-slug: "opencv-debug-by-imshow-instead-of-imagewatch"
+slug: "opencv/opencv-debug-by-imshow-instead-of-imagewatch"
 date: "2019-11-13 11:16:00"
 ---
 
@@ -86,7 +86,7 @@ Check the box [X]WITH_OPENGL
 ---
 
 本文由芒果浩明发布，转载请注明来源。
-本文链接：https://mangoroom.cn/opencv/opencv-debug-by-imshow-instead-of-imagewatch.html
+本文链接：https://blog.mangoroom.cn/opencv/opencv-debug-by-imshow-instead-of-imagewatch.html
 
   [1]: https://mangoroom.cn/usr/uploads/2019/11/322310943.png
   [2]: https://mangoroom.cn/usr/uploads/2019/11/3536942200.png

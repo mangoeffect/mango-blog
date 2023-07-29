@@ -3,7 +3,7 @@ title: "学习openmp-windows平台使用新版本openmp"
 categories: [ "并行编程" ]
 tags: [ "visual studio","cmake","openmp","openmp5.0","clang-cl" ]
 draft: false
-slug: "learn-openmp-use-newversion-openmp-on-windows"
+slug: "并行编程/learn-openmp-use-newversion-openmp-on-windows"
 date: "2021-12-07 19:29:00"
 ---
 
@@ -162,4 +162,4 @@ C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\Llvm\bin
 ------
 
 本文由芒果浩明发布，转载请注明出处。
-本文链接：https://mangoroom.cn/parallel-programming/learn-openmp-use-newversion-openmp-on-windows.html
+本文链接：https://blog.mangoroom.cn/parallel-programming/learn-openmp-use-newversion-openmp-on-windows.html

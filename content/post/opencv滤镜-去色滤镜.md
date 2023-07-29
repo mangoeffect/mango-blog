@@ -3,7 +3,7 @@ title: "opencv滤镜-去色滤镜"
 categories: [ "opencv","滤镜" ]
 tags: [ "opencv","图像处理","图像处理算法","滤镜","去色" ]
 draft: false
-slug: "remove-color-filter"
+slug: "opencv/remove-color-filter"
 date: "2019-07-03 09:32:00"
 ---
 
@@ -70,6 +70,6 @@ int main()
 ---
 
 本文由芒果浩明发布，转载请注明来源。
-本文链接：https://mangoroom.cn/opencv/remove-color-filter.html
+本文链接：https://blog.mangoroom.cn/opencv/remove-color-filter.html
 
   [1]: https://mangoroom.cn/usr/uploads/2019/07/3241590881.png

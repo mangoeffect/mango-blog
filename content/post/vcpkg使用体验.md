@@ -3,7 +3,7 @@ title: "vcpkg使用体验"
 categories: [ "c++","工具" ]
 tags: [ "opencv","cmake","vs","vcpkg" ]
 draft: false
-slug: "feedback-of-use-vcpkg"
+slug: "cpp/feedback-of-use-vcpkg"
 date: "2021-10-25 22:14:00"
 ---
 
@@ -199,6 +199,6 @@ cmake -G "Visual Studio 16 2019" .. -DCMAKE_TOOLCHAIN_FILE=<vcpkg_dir>/scripts/b
 -----
 
 本文由芒果浩明发布，转载请注明出处。
-本文链接：https://mangoroom.cn/cpp/feedback-of-use-vcpkg.html
+本文链接：https://blog.mangoroom.cn/cpp/feedback-of-use-vcpkg.html
 
   [1]: https://mangoroom.cn/usr/uploads/2021/10/462147729.jpg

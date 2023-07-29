@@ -3,7 +3,7 @@ title: "windows平台clion配置opencv"
 categories: [ "opencv","计算机视觉" ]
 tags: [ "opencv","cmake","clion" ]
 draft: false
-slug: "clion-opencv-config-on-windows"
+slug: "opencv/clion-opencv-config-on-windows"
 date: "2020-03-21 15:42:00"
 ---
 
@@ -95,7 +95,7 @@ General configuration for OpenCV 4.0.1 =====================================
 -----
 
 本文由芒果浩明发布，转载请注明出处。
-本文链接：https://mangoroom.cn/opencv/clion-opencv-config-on-windows.html
+本文链接：https://blog.mangoroom.cn/opencv/clion-opencv-config-on-windows.html
 
   [1]: https://mangoroom.cn/usr/uploads/2020/03/2665346324.png
   [2]: https://mangoroom.cn/usr/uploads/2020/03/2883543192.png

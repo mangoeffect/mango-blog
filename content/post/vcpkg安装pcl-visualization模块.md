@@ -3,7 +3,7 @@ title: "vcpkg安装pcl-visualization模块"
 categories: [ "工具","PCL" ]
 tags: [ "pcl","vcpkg","pcl-visualization","pcl-1.12.0" ]
 draft: false
-slug: "vcpkg-install-pcl-visualization-module"
+slug: "tools/vcpkg-install-pcl-visualization-module"
 date: "2021-10-28 21:32:00"
 ---
 
@@ -73,4 +73,4 @@ E:\vcpkg_pcl_visualization\vcpkg\installed\x86-windows\include\pcl
 ---------
 
 本文由芒果浩明发布，转载请注明出处。
-本文链接：https://mangoroom.cn/tools/vcpkg-install-pcl-visualization-module.html
+本文链接：https://blog.mangoroom.cn/tools/vcpkg-install-pcl-visualization-module.html

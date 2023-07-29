@@ -3,7 +3,7 @@ title: "学习opnemp-parallel-for"
 categories: [ "并行编程" ]
 tags: [ "c++","openmp","parallel","parallel-for","for" ]
 draft: false
-slug: "learn-openmp-parallel-for"
+slug: "并行编程/learn-openmp-parallel-for"
 date: "2021-12-04 18:05:00"
 ---
 
@@ -158,5 +158,5 @@ int main(int argc, char** argv)
 ----
 
 本文由芒果浩明发布，转载请注明出处。
-本文链接：https://mangoroom.cn/parallel-programming/learn-openmp-parallel-for.html
+本文链接：https://blog.mangoroom.cn/parallel-programming/learn-openmp-parallel-for.html
 

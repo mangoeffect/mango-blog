@@ -3,7 +3,7 @@ title: "windows快速安装eigen"
 categories: [ "Eigen" ]
 tags: [ "cmake","windows","eigen","eigen-3.4.0" ]
 draft: false
-slug: "quick-install-eigen-on-windows"
+slug: "Eigen/quick-install-eigen-on-windows"
 date: "2021-09-23 00:17:00"
 ---
 
@@ -33,7 +33,7 @@ date: "2021-09-23 00:17:00"
 -------
 
 本文由芒果浩明发布，转载请注明出处。
-本文链接：https://mangoroom.cn/eigen/quick-install-eigen-on-windows.html
+本文链接：https://blog.mangoroom.cn/eigen/quick-install-eigen-on-windows.html
 
   [1]: https://mangoroom.cn/usr/uploads/2021/09/1136542323.jpg
   [2]: https://mangoroom.cn/usr/uploads/2021/09/1441431272.png

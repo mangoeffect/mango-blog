@@ -3,7 +3,7 @@ title: "OpenCV程序优化技巧(2)"
 categories: [ "opencv","计算机视觉" ]
 tags: [ "opencv","cuda","tbb","openmp","simd" ]
 draft: false
-slug: "optimization-methods-in-opencv-2"
+slug: "opencv/optimization-methods-in-opencv-2"
 date: "2022-04-02 23:25:30"
 ---
 
@@ -111,4 +111,4 @@ void SimdSample()
 -------
 
 本文由芒果浩明发布，转载请注明出处。
-本文链接：https://mangoroom.cn/opencv/optimization-methods-in-opencv-2.html
+本文链接：https://blog.mangoroom.cn/opencv/optimization-methods-in-opencv-2.html

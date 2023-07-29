@@ -3,7 +3,7 @@ title: "opencv学习之显示图像-imshow函数"
 categories: [ "opencv" ]
 tags: [ "opencv","c++","imshow" ]
 draft: false
-slug: "opencv-learning-imshow"
+slug: "opencv/opencv-learning-imshow"
 date: "2019-05-23 18:50:00"
 ---
 
@@ -102,4 +102,4 @@ imshow显示图片的窗口非常地简单，实际的开发中也不会有人�
 ---
 
 本文由芒果浩明发布，转载需注明来源。
-本文链接：https://mangoroom.cn/opencv/opencv-learning-imshow.html
+本文链接：https://blog.mangoroom.cn/opencv/opencv-learning-imshow.html

@@ -3,7 +3,7 @@ title: "ubuntu安装tailscale"
 categories: [ "工具" ]
 tags: [ "linux","tailscale","ubuntu" ]
 draft: false
-slug: "install-tailscale-on-ubuntu"
+slug: "tools/install-tailscale-on-ubuntu"
 date: "2021-12-04 18:39:00"
 ---
 
@@ -70,5 +70,5 @@ SUBCOMMANDS
 ----
 
 本文由芒果浩明发布，转载请注明出处。
-本文链接：https://mangoroom.cn/tools/install-tailscale-on-ubuntu.html
+本文链接：https://blog.mangoroom.cn/tools/install-tailscale-on-ubuntu.html
 

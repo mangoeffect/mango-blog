@@ -3,7 +3,7 @@ title: "PCL条件滤波"
 categories: [ "算法","PCL" ]
 tags: [ "滤波","pcl" ]
 draft: false
-slug: "condition-removal-filter-of-pcl"
+slug: "algorithm/condition-removal-filter-of-pcl"
 date: "2020-09-29 19:10:00"
 ---
 
@@ -153,7 +153,7 @@ conditional_removal.setCondition(condition_add);
 ------------
 
 本文由芒果浩明发布，转载请注明出处。
-本文链接：https://mangoroom.cn/algorithm/condition-removal-filter-of-pcl.html
+本文链接：https://blog.mangoroom.cn/algorithm/condition-removal-filter-of-pcl.html
 
   [1]: https://mangoroom.cn/usr/uploads/2020/09/2682866710.png
   [2]: https://mangoroom.cn/usr/uploads/2020/09/2208493697.png

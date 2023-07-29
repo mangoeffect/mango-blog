@@ -3,7 +3,7 @@ title: "opencv坐标点模板类Point_用法"
 categories: [ "opencv","c++","计算机视觉" ]
 tags: [ "opencv","point" ]
 draft: false
-slug: "how-to-use-point-type-in-opencv"
+slug: "opencv/how-to-use-point-type-in-opencv"
 date: "2020-09-30 21:15:00"
 ---
 
@@ -267,5 +267,5 @@ centroid: [4.5, 4.5]
 -----------
 
 本文由芒果浩明发布，转载请注明出处。
-本文链接：https://mangoroom.cn/opencv/how-to-use-point-type-in-opencv.html
+本文链接：https://blog.mangoroom.cn/opencv/how-to-use-point-type-in-opencv.html
 

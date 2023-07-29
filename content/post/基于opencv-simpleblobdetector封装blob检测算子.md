@@ -3,7 +3,7 @@ title: "基于opencv-simpleblobdetector封装blob检测算子"
 categories: [ "opencv","算法","c++","计算机视觉" ]
 tags: [ "opencv","blob","contours","area" ]
 draft: false
-slug: "better-blob-detection-based-on-simepleblobdetector"
+slug: "opencv/better-blob-detection-based-on-simepleblobdetector"
 date: "2020-04-01 22:11:00"
 ---
 
@@ -610,7 +610,7 @@ keypoints size: 16
 -----
 
 本文由芒果浩明发布，转载请注明出处。
-本文链接：https://mangoroom.cn/opencv/better-blob-detection-based-on-simepleblobdetector.html
+本文链接：https://blog.mangoroom.cn/opencv/better-blob-detection-based-on-simepleblobdetector.html
 
   [1]: https://mangoroom.cn/usr/uploads/2020/04/1884716798.jpg
   [2]: https://mangoroom.cn/usr/uploads/2020/04/75016653.png

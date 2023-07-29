@@ -3,7 +3,7 @@ title: "大津法Otsu二值化"
 categories: [ "opencv","算法","计算机视觉" ]
 tags: [ "图像处理","图像处理算法","otsu" ]
 draft: false
-slug: "otsu-image-binary"
+slug: "opencv/otsu-image-binary"
 date: "2020-06-15 10:53:00"
 ---
 
@@ -235,7 +235,7 @@ unsigned int Otsu(const cv::Mat& image)
 ----
 
 本文由芒果浩明发布，转载请注明出处。
-本文链接：https://mangoroom.cn/opencv/otsu-image-binary.html
+本文链接：https://blog.mangoroom.cn/opencv/otsu-image-binary.html
 
   [1]: https://mangoroom.cn/usr/uploads/2020/06/3715376385.jpg
   [2]: https://mangoroom.cn/usr/uploads/2020/06/645369221.png

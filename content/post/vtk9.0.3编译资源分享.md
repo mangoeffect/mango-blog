@@ -3,7 +3,7 @@ title: "vtk9.0.3编译资源分享"
 categories: [ "资源分享" ]
 tags: [ "vs2019","vtk","vtk9.0.3","64bit" ]
 draft: false
-slug: "VTK-9-03-x86-vc16-shared-default"
+slug: "资源分享/VTK-9-03-x86-vc16-shared-default"
 date: "2021-09-20 22:31:00"
 ---
 
@@ -32,6 +32,6 @@ date: "2021-09-20 22:31:00"
 ---------
 
 本文由芒果浩明发布，转载请注明出处。
-本文链接：https://mangoroom.cn/shared/VTK-9-03-x86-vc16-shared-default.html
+本文链接：https://blog.mangoroom.cn/shared/VTK-9-03-x86-vc16-shared-default.html
 
   [1]: https://mangoroom.cn/usr/uploads/2021/09/1610238771.png

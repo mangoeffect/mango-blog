@@ -3,7 +3,7 @@ title: "CMake学习笔记"
 categories: [ "工具" ]
 tags: [ "cmake" ]
 draft: false
-slug: "cmake-learning"
+slug: "tools/cmake-learning"
 date: "2020-03-04 10:52:00"
 ---
 
@@ -108,6 +108,6 @@ add_executable(demo1 main.cpp)
 ---
 
 本文由芒果浩明发布，转载请注明出处。
-本文链接：https://mangoroom.cn/tools/cmake-learning.html
+本文链接：https://blog.mangoroom.cn/tools/cmake-learning.html
 
  [1]: https://mangoroom.cn/usr/uploads/2020/03/1290917933.png

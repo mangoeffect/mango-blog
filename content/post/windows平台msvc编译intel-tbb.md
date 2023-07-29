@@ -3,7 +3,7 @@ title: "windows平台msvc编译intel-tbb"
 categories: [ "c++","工具" ]
 tags: [ "c++","cmake","windows","intel","tbb","thread" ]
 draft: false
-slug: "build-intel-tbb-with-msvc-on-windows"
+slug: "cpp/build-intel-tbb-with-msvc-on-windows"
 date: "2021-05-07 22:04:00"
 ---
 
@@ -89,7 +89,7 @@ GUI模式则使用CMake软件程序完成上述构建，遵循以下截图步骤
 
 ---------
 本文由芒果浩明发布，转载请注明出处。
-本文链接：https://mangoroom.cn/cpp/build-intel-tbb-with-msvc-on-windows.html
+本文链接：https://blog.mangoroom.cn/cpp/build-intel-tbb-with-msvc-on-windows.html
 
   [1]: https://mangoroom.cn/usr/uploads/2021/05/2976775110.png
   [2]: https://mangoroom.cn/usr/uploads/2021/05/427069888.png

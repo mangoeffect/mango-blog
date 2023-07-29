@@ -3,7 +3,7 @@ title: "manjaro重启切换windows"
 categories: [ "工具" ]
 tags: [ "windows","manjaro","reboot","grub" ]
 draft: false
-slug: "reboot-to-windows-by-cammand-line-on-manjaro"
+slug: "tools/reboot-to-windows-by-cammand-line-on-manjaro"
 date: "2021-12-09 20:20:21"
 ---
 

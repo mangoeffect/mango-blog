@@ -3,7 +3,7 @@ title: "ubuntu安装最新版clang"
 categories: [ "工具" ]
 tags: [ "ubuntu","clang","llvm" ]
 draft: false
-slug: "install-clang-latest-on-ubuntu"
+slug: "tools/install-clang-latest-on-ubuntu"
 date: "2021-12-22 22:12:00"
 ---
 

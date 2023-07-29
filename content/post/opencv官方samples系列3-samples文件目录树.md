@@ -3,7 +3,7 @@ title: "opencv官方samples系列3-samples文件目录树"
 categories: [ "opencv" ]
 tags: [ "opencv","图像处理","计算机视觉","opencv-samples","powershell" ]
 draft: false
-slug: "opencv-sample3-files-tree"
+slug: "opencv/opencv-sample3-files-tree"
 date: "2019-05-19 13:04:00"
 ---
 
@@ -1813,4 +1813,4 @@ F:.
 ---
 
 本文由芒果浩明发布，转载需注明来源。
-本文链接：https://mangoroom.cn/opencv/opencv-sample3-files-tree.html
+本文链接：https://blog.mangoroom.cn/opencv/opencv-sample3-files-tree.html

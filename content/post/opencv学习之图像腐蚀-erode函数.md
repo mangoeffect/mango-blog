@@ -3,7 +3,7 @@ title: "opencv学习之图像腐蚀-erode函数"
 categories: [ "opencv" ]
 tags: [ "opencv","图像处理","计算机视觉","erode" ]
 draft: false
-slug: "opencv-learning-erode"
+slug: "opencv/opencv-learning-erode"
 date: "2019-06-13 15:50:00"
 ---
 

@@ -3,7 +3,7 @@ title: "AdBlock英文系统下失效的解决办法"
 categories: [ "工具" ]
 tags: [ "工具使用" ]
 draft: false
-slug: "adblock-not-work-in-english-system"
+slug: "tools/adblock-not-work-in-english-system"
 date: "2019-06-18 10:36:00"
 ---
 
@@ -22,7 +22,7 @@ date: "2019-06-18 10:36:00"
 ---
 
 本文由芒果浩明发布，转载请注明来源。
-本文链接：https://mangoroom.cn/tools/adblock-not-work-in-english-system.html
+本文链接：https://blog.mangoroom.cn/tools/adblock-not-work-in-english-system.html
 
   [1]: https://mangoroom.cn/usr/uploads/2019/06/3401282579.png
   [2]: https://mangoroom.cn/usr/uploads/2019/06/500016610.png
