@@ -3,7 +3,7 @@ title: "学习openmp-reduction"
 categories: [ "并行编程" ]
 tags: [ "openmp","reduction","min","max" ]
 draft: false
-slug: "并行编程/learn-openmp-reduction"
+slug: "parallel-programming/learn-openmp-reduction"
 date: "2021-12-05 13:52:00"
 ---
 

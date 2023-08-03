@@ -3,7 +3,7 @@ title: "学习openmp-条件选择开启openmp优化"
 categories: [ "并行编程" ]
 tags: [ "openmp","condiction","enable-openmp" ]
 draft: false
-slug: "并行编程/learn-openmp-condiction-of-enable-openmp"
+slug: "parallel-programming/learn-openmp-condiction-of-enable-openmp"
 date: "2021-12-10 18:13:00"
 ---
 

@@ -3,7 +3,7 @@ title: "学习opnemp-parallel-for"
 categories: [ "并行编程" ]
 tags: [ "c++","openmp","parallel","parallel-for","for" ]
 draft: false
-slug: "并行编程/learn-openmp-parallel-for"
+slug: "parallel-programming/learn-openmp-parallel-for"
 date: "2021-12-04 18:05:00"
 ---
 

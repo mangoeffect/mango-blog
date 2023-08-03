@@ -3,7 +3,7 @@ title: "学习openmp-atomic"
 categories: [ "并行编程" ]
 tags: [ "openmp","atomic","critical" ]
 draft: false
-slug: "并行编程/learn-openmp-atomic"
+slug: "parallel-programming/learn-openmp-atomic"
 date: "2021-12-21 14:53:00"
 ---
 

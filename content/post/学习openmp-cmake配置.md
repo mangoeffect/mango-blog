@@ -3,7 +3,7 @@ title: "学习openmp-cmake配置"
 categories: [ "并行编程" ]
 tags: [ "c++","cmake","openmp","parallel" ]
 draft: false
-slug: "并行编程/learn-openmp-cmake-import-openmp"
+slug: "parallel-programming/learn-openmp-cmake-import-openmp"
 date: "2021-12-04 12:21:00"
 ---
 
