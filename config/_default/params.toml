@@ -22,7 +22,7 @@ local = true
 src = "img/mango-150x150.png"
 
 [article]
-math = false
+math = true
 readingTime = true
 
 [article.license]
