@@ -5,8 +5,9 @@ rssFullContent = true
 favicon = "/mango-32x32.png"
 
 [footer]
-since = 2020
-customText = ""
+since = 2019
+customText = "<a href=\"https://beian.miit.gov.cn/\" target=\"_blank\">备案号</a>  <a href=\"https://beian.miit.gov.cn/\" target=\"_blank\">桂ICP备17009080号-2</a>"
+
 
 [dateFormat]
 published = "Jan 02, 2006"
@@ -75,7 +76,7 @@ enabled = true
 
 ## Comments
 [comments]
-enabled = true
+enabled = false
 provider = "giscus"
 
 [comments.disqusjs]
