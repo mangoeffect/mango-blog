@@ -12,7 +12,7 @@ date: "2019-07-04 23:24:00"
 > 羽化是ps术语，羽化原理是令选区内外衔接部分虚化，起到渐变的作用从而达到自然衔接的效果，是ps及其其它版本中的处理图片的重要工具。羽化可使像素选区的边缘变得模糊，有助于所选区域与周围的像素混合.
 
 
-![原图](https://mangoroom.cn/usr/uploads/2019/07/3135764183.jpg)
+![filter-img](https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//filter-image.jpeg)
 
 ## 实现原理
 

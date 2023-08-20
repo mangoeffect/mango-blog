@@ -11,7 +11,7 @@ date: "2019-07-03 09:51:00"
 
 单色滤镜的原理非常简单，rgb图像有三个颜色分量，单色滤镜只需要将其中两个分量的值设置为0，保留的颜色分量不修改即可。
 
-![原图](https://mangoroom.cn/usr/uploads/2019/07/3135764183.jpg)
+![filter-img](https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//filter-image.jpeg)
 
 ## 代码实现
 

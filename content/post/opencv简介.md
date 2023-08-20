@@ -16,7 +16,6 @@ date: "2019-05-08 14:59:00"
 作为opencv填坑之旅的开篇，首先就了解一遍opencv是个什么东西吧。读完本文将了解到OpenCV为何物、OpenCV有何特点、OpenCV应用在哪些领域、OpenCV的发展历史以及发展趋势。
 
 ## OpenCV是什么
-![OpenCV_Logo_with_text.png][1]
 与众多的程序库一样，OpenCV为一个简称。其全名为Open source computer vision library，顾名思义，翻译为中文便是：开源的计算机视觉库。所以，opencv简单地说是计算机视觉相关方面的开源库，认识opencv首先抓住**开源**与**计算机视觉**两个关键词。上图为opencv的logo,logo的上半部分为图像中R（红色）、G（绿色）和B（蓝色）三个通道的图案，下半部分为opencv的文字简称。
 
 ## 	OpenCV的特点有哪些
@@ -94,4 +93,3 @@ OpenCV的第二个主要版本是2009年10月的OpenCV      2.0。该版本的�
 本文链接：https://blog.mangoroom.cn/opencv/opencv-introduction.html
 
 
-  [1]: https://mangoroom.cn/usr/uploads/2019/05/2013593432.png

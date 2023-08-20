@@ -8,7 +8,6 @@ date: "2021-09-20 22:31:00"
 ---
 
 ## 编译资源信息简介
-![vtk-logo.png][1]
 库文件编译选项概要如下
 
 | 编译选项 | 说明                      |
@@ -34,4 +33,3 @@ date: "2021-09-20 22:31:00"
 本文由芒果浩明发布，转载请注明出处。
 本文链接：https://blog.mangoroom.cn/shared/VTK-9-03-x86-vc16-shared-default.html
 
-  [1]: https://mangoroom.cn/usr/uploads/2021/09/1610238771.png

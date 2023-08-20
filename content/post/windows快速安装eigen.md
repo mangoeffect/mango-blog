@@ -7,7 +7,6 @@ slug: "Eigen/quick-install-eigen-on-windows"
 date: "2021-09-23 00:17:00"
 ---
 
-![eigen.jpg][1]
 ## 下载
 
 到托管平台gitlab下载eigen最新发布源码，eigen发布地址:[https://gitlab.com/libeigen/eigen/-/releases](https://gitlab.com/libeigen/eigen/-/releases)
@@ -24,7 +23,6 @@ date: "2021-09-23 00:17:00"
 - 6 点击generate生产解决方案
 - 7 点击Open Project
 - 8 打开解决方案后右键install项目生成
-![step.png][2]
 执行后install目录下生成eigen包含模板头文件
 
 下载:https://mangoroom.lanzoui.com/idn2qudow2b 
@@ -35,5 +33,3 @@ date: "2021-09-23 00:17:00"
 本文由芒果浩明发布，转载请注明出处。
 本文链接：https://blog.mangoroom.cn/eigen/quick-install-eigen-on-windows.html
 
-  [1]: https://mangoroom.cn/usr/uploads/2021/09/1136542323.jpg
-  [2]: https://mangoroom.cn/usr/uploads/2021/09/1441431272.png

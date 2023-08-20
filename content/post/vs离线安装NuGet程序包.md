@@ -38,7 +38,6 @@ https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/releases
 8. 选中新建的离线程序包源，浏览
 9. 安装
 
-![新建本地可用程序源.png][1]
 
 
 ---
@@ -47,4 +46,3 @@ https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/releases
 本文由芒果浩明发布，转载请注明来源。
 本文链接：https://blog.mangoroom.cn/donet/vs-install-local-nuget-package.html
 
-  [1]: https://mangoroom.cn/usr/uploads/2019/08/2594341301.png

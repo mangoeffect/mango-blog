@@ -47,7 +47,7 @@ current(i, j) =  current(j, j) - current(i-1, j-1)
 
 以上的操作可以形成浮雕或者雕刻的原因在于，由于图片中相邻点的颜色值是比较接近的，因此这样的算法处理之后，只有颜色的边沿区域，也就是相邻颜色差异较大的部分的结果才会比较明显，而其他平滑区域则值都接近128左右，也就是灰色，这样就具有了浮雕或者雕刻效果。
 
-![原图](https://mangoroom.cn/usr/uploads/2019/07/3135764183.jpg)
+![filter-img](https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//filter-image.jpeg)
 
 ## 代码实现
 

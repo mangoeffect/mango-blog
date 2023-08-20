@@ -91,13 +91,13 @@ GUI模式则使用CMake软件程序完成上述构建，遵循以下截图步骤
 本文由芒果浩明发布，转载请注明出处。
 本文链接：https://blog.mangoroom.cn/cpp/build-intel-tbb-with-msvc-on-windows.html
 
-  [1]: https://mangoroom.cn/usr/uploads/2021/05/2976775110.png
-  [2]: https://mangoroom.cn/usr/uploads/2021/05/427069888.png
-  [3]: https://mangoroom.cn/usr/uploads/2021/05/3166162117.png
-  [4]: https://mangoroom.cn/usr/uploads/2021/05/1320950418.png
-  [5]: https://mangoroom.cn/usr/uploads/2021/05/1674430728.png
-  [6]: https://mangoroom.cn/usr/uploads/2021/05/2390419373.png
-  [7]: https://mangoroom.cn/usr/uploads/2021/05/1991396510.png
-  [8]: https://mangoroom.cn/usr/uploads/2021/05/1601160449.png
-  [9]: https://mangoroom.cn/usr/uploads/2021/05/3284086116.png
-  [10]: https://mangoroom.cn/usr/uploads/2021/05/428159166.png
+  [1]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//win-intel-tbb-1.png
+  [2]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//win-intel-tbb-2.png
+  [3]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//win-intel-tbb-3.png
+  [4]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//win-intel-tbb-4.png
+  [5]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//win-intel-tbb-5.png
+  [6]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//win-intel-tbb-6.png
+  [7]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//win-intel-tbb-7.png
+  [8]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//win-intel-tbb-8.png
+  [9]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//win-intel-tbb-9.png
+  [10]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//win-intel-tbb-10.png

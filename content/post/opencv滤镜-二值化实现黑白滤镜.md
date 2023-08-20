@@ -11,7 +11,7 @@ date: "2019-07-02 19:01:00"
 
 黑白滤镜非常简单，顾名思义就是图像只有黑色与白色，这实际上就是图像的二值化。实现的原理也非常地简单，设定一个阈值，假设为128，判断每个像素点的灰度值，大于128设为255（对应白色），小于则设为0（对应黑色）。
 
-![原图](https://mangoroom.cn/usr/uploads/2019/07/3135764183.jpg)
+![filter-img](https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//filter-image.jpeg)
 
 ## 代码实现
 

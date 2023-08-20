@@ -64,7 +64,7 @@ J0(5) = -1.775967713143382642e-01
 本文由芒果浩明发布，转载请注明出处。
 本文链接：https://blog.mangoroom.cn/tools/use-cmake-build-gsl-on-windows.html
 
-  [1]: https://mangoroom.cn/usr/uploads/2020/04/122212023.png
-  [2]: https://mangoroom.cn/usr/uploads/2020/04/4038256655.png
-  [3]: https://mangoroom.cn/usr/uploads/2020/04/2504860031.png
-  [4]: https://mangoroom.cn/usr/uploads/2020/04/1815873250.png
+  [1]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//cmake-glsl-1.png
+  [2]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//cmake-glsl-2.png
+  [3]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//cmake-glsl-3.png
+  [4]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//cmake-glsl-4.png

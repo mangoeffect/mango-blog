@@ -97,7 +97,7 @@ General configuration for OpenCV 4.0.1 =====================================
 本文由芒果浩明发布，转载请注明出处。
 本文链接：https://blog.mangoroom.cn/opencv/clion-opencv-config-on-windows.html
 
-  [1]: https://mangoroom.cn/usr/uploads/2020/03/2665346324.png
-  [2]: https://mangoroom.cn/usr/uploads/2020/03/2883543192.png
-  [3]: https://mangoroom.cn/usr/uploads/2020/03/3615255779.png
-  [4]: https://mangoroom.cn/usr/uploads/2020/03/3164032241.png
+  [1]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//win-clion-opencv-1.png
+  [2]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//win-clion-opencv-2.png
+  [3]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//win-clion-opencv-3.png
+  [4]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//win-clion-opencv-4.png

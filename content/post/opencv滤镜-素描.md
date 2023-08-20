@@ -21,7 +21,7 @@ date: "2019-07-03 17:02:00"
 > 减淡公式：C =MIN( A +（A×B）/（255-B）,255)，其中C为混合结果，A为去色后的像素点，B为高斯模糊后的像素点。
 
 
-![原图](https://mangoroom.cn/usr/uploads/2019/07/3135764183.jpg)
+![filter-img](https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//filter-image.jpeg)
 
 ## 代码实现
 

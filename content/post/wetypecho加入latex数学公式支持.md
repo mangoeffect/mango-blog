@@ -13,7 +13,7 @@ date: "2020-03-01 22:46:00"
 - 博客开启**https**访问
 
 托管主机推荐腾讯云，新用户优惠力度还是比较大的，本站使用的就是腾讯云。优惠链接
-[![【腾讯云】云产品限时秒杀，爆款1核2G云服务器，首年74元](https://mangoroom.cn/usr/uploads/2021/09/2788699968.jpg)](https://curl.qcloud.com/ArhxAoxC)
+[![【腾讯云】云产品限时秒杀，爆款1核2G云服务器，首年74元](https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//tencent-clound-1.jpeg)](https://curl.qcloud.com/ArhxAoxC)
 
 **小程序渲染效果：**
 

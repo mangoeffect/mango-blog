@@ -237,11 +237,11 @@ unsigned int Otsu(const cv::Mat& image)
 本文由芒果浩明发布，转载请注明出处。
 本文链接：https://blog.mangoroom.cn/opencv/otsu-image-binary.html
 
-  [1]: https://mangoroom.cn/usr/uploads/2020/06/3715376385.jpg
-  [2]: https://mangoroom.cn/usr/uploads/2020/06/645369221.png
-  [3]: https://mangoroom.cn/usr/uploads/2020/06/430668052.png
-  [4]: https://mangoroom.cn/usr/uploads/2020/06/1155571295.png
-  [5]: https://mangoroom.cn/usr/uploads/2020/06/3265046426.png
-  [6]: https://mangoroom.cn/usr/uploads/2020/06/1684306633.png
-  [7]: https://mangoroom.cn/usr/uploads/2020/06/131041471.png
-  [8]: https://mangoroom.cn/usr/uploads/2020/06/3682848517.png
+  [1]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//ostu-threshold-1.png
+  [2]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//ostu-threshold-2.png
+  [3]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//ostu-threshold-3.png
+  [4]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//ostu-threshold-4.png
+  [5]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//ostu-threshold-5.png
+  [6]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//ostu-threshold-6.png
+  [7]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//ostu-threshold-7.png
+  [8]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//ostu-threshold-8.png

@@ -143,17 +143,12 @@ mingw32-make.exe
 1. 打开cmake GUI程序
 2. 选择项目根目录，以及build目录
 
-![select-directories.png][1]
-
 3. 点击configurate,配置。选择`MinGW Makefiles`与`Specify toolchain files for cross-compling`
 
-![generator.png][2]
 4. 选择toolchain.camke文件
 
-![toolchain-files.png][3]
 5. 点击generate
 
-![cmake-done.png][4]
 6. 打开控制台cd到build目录执行make编译
 
 ```bash
@@ -183,7 +178,3 @@ cmake_install.cmake  CMakeFiles/  libadd.so  Makefile
 本文由芒果浩明发布，转载请注明出处。
 本文链接：https://blog.mangoroom.cn/tools/how-to-use-linaro-and-cmake-compile-arm-program-on-windows.html
 
-  [1]: https://mangoroom.cn/usr/uploads/2021/03/3735418504.png
-  [2]: https://mangoroom.cn/usr/uploads/2021/03/2486819531.png
-  [3]: https://mangoroom.cn/usr/uploads/2021/03/3196570889.png
-  [4]: https://mangoroom.cn/usr/uploads/2021/03/344634029.png

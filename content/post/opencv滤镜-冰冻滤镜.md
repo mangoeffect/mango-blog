@@ -12,7 +12,7 @@ date: "2019-07-03 11:24:00"
 通过以下公式，对图像rgb三个分量进行调整，可以到达冰冻的滤镜特效。
 ![冰冻滤镜公式.png][1]
 
-![原图](https://mangoroom.cn/usr/uploads/2019/07/3135764183.jpg)
+![filter-img](https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//filter-image.jpeg)
 
 ## 代码实现
 

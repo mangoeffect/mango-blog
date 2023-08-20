@@ -7,6 +7,10 @@ slug: "website/blog-select"
 date: "2019-05-08 10:00:00"
 ---
 
+##更新
+
+**弃坑了，换到hugo**
+
 typecho博客站点建好了，算上这次。芒果已经记不起来多少次折腾博客了。不过经过这次，以后应该不会再迁移或者重建博客了。在经历了csdn、django、wordpress、hexo、简书和掘金之后。芒果最终还是选择了typecho,下面聊聊为什么最后选了tpyecho吧。顺便捋一下芒果折腾博客的一个历程。
 
 ## csdn
@@ -171,7 +175,7 @@ markdown一直是芒果非常看重的一个点，自带的markdown编辑器芒�
 ---
 
 至于托管主机推荐腾讯云，本站也是从原阿里云的转到腾讯云了，新用户优惠力度还是比较大的。优惠链接
-[![【腾讯云】云产品限时秒杀，爆款1核2G云服务器，首年74元](https://mangoroom.cn/usr/uploads/2021/09/2788699968.jpg)](https://curl.qcloud.com/ArhxAoxC)
+[![【腾讯云】云产品限时秒杀，爆款1核2G云服务器，首年74元](https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//tencent-clound-1.jpeg)](https://curl.qcloud.com/ArhxAoxC)
 
 ---
 
@@ -179,13 +183,14 @@ markdown一直是芒果非常看重的一个点，自带的markdown编辑器芒�
 本文链接：https://blog.mangoroom.cn/website/blog-select.html
 
 
-  [1]: https://mangoroom.cn/usr/uploads/2019/05/858647314.jpg
-  [2]: https://mangoroom.cn/usr/uploads/2019/05/2032716996.png
-  [3]: https://mangoroom.cn/usr/uploads/2019/05/1811504278.jpg
-  [4]: https://mangoroom.cn/usr/uploads/2019/05/1300856557.jpg
-  [5]: https://mangoroom.cn/usr/uploads/2019/05/824105200.png
-  [6]: https://mangoroom.cn/usr/uploads/2019/05/971202441.png
-  [7]: https://mangoroom.cn/usr/uploads/2019/05/3704805912.jpg
-  [8]: https://mangoroom.cn/usr/uploads/2019/05/50708700.png
-  [9]: https://mangoroom.cn/usr/uploads/2019/05/1930960417.png
-  [10]: https://mangoroom.cn/usr/uploads/2019/05/4262385056.jpg
+
+  [1]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//select-typecho-1.jpeg
+  [2]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//select-typecho-2.png
+  [3]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//select-typecho-3.jpeg
+  [4]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//select-typecho-4.jpeg
+  [5]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//select-typecho-5.png
+  [6]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//select-typecho-6.png
+  [7]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//select-typecho-7.jpeg
+  [8]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//select-typecho-8.png
+  [9]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//select-typecho-9.png
+  [10]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//select-typecho-10.jpeg

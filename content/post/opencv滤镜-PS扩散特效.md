@@ -20,7 +20,7 @@ date: "2019-07-05 14:07:22"
 p的取值从相邻的8个像素点获取。
 
 
-![原图](https://mangoroom.cn/usr/uploads/2019/07/3135764183.jpg)
+![filter-img](https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//filter-image.jpeg)
 
 
 ## 代码实现

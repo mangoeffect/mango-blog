@@ -14,7 +14,7 @@ date: "2019-07-03 10:22:00"
 ![怀旧滤镜公式.png][1]
 
 
-![原图](https://mangoroom.cn/usr/uploads/2019/07/3135764183.jpg)
+![filter-img](https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//filter-image.jpeg)
 
 ## 代码实现
 

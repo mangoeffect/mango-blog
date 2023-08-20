@@ -11,7 +11,6 @@ date: "2019-05-18 17:48:00"
 
 上一篇在[【python安装opencv】](https://mangoroom.cn/opencv/python-install-opencv.html)中芒果已经介绍了如何安装python的opencv程序包，安装也非常简单，几乎是一条命令行的工作。这得益于python非常好第三方程序包管理，本文就介绍opencv-python这一程序包。
 
-![图1:opencv-python](https://mangoroom.cn/usr/uploads/2019/05/2904793903.png)
 ## 概要
 
 opencv-python程序包是发布在PyPi网站上的一个opencv的python接口程序包。这个包的详细信息地址为[【opencv-python地址】](https://pypi.org/project/opencv-python/),它主要有以下的特点
