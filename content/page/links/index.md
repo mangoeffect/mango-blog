@@ -9,6 +9,9 @@ links:
     description: 个人知乎主页
     website: https://www.zhihu.com/people/mang-guo-hao-ming
     image: 
+  - title: AomanHao的博客空间
+    description: 图像处理，优化世界
+    website: https://www.aomanhao.top
 menu:
     main: 
         weight: 4
