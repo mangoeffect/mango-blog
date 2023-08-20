@@ -98,7 +98,7 @@ lilai619
 最早芒果也是在csdn上写博客的，起初还好。后面就越发觉得不喜欢csdn，广告多且低俗、盗版盛行、复制粘贴的内容太多加之现在诸如区分普通用户和vip用户的种种吃相。已经不适合学习交流了。
 
 个人博客托管主机推荐腾讯云，新用户优惠力度还是比较大的，本站使用的就是腾讯云。优惠链接
-[![【腾讯云】云产品限时秒杀，爆款1核2G云服务器，首年74元](https://mangoroom.cn/usr/uploads/2021/09/2788699968.jpg)](https://mangoroom.cn/go/tencentcloud1/)
+[![【腾讯云】云产品限时秒杀，爆款1核2G云服务器，首年74元](https://mangoroom.cn/usr/uploads/2021/09/2788699968.jpg)](https://curl.qcloud.com/ArhxAoxC)
 
 --- 
 

@@ -14,7 +14,7 @@ date: "2022-03-05 11:17:00"
 - zouyq/derper镜像
 - (部署在国内服务器域名需备案)
 
-[![【腾讯云】云产品限时秒杀，爆款1核2G云服务器，首年74元](https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com/mango-bogad-tencentcloud.jpg)](https://mangoroom.cn/go/tencentcloud1/)
+[![【腾讯云】云产品限时秒杀，爆款1核2G云服务器，首年74元](https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com/mango-bogad-tencentcloud.jpg)](https://curl.qcloud.com/ArhxAoxC)
 
 ## 安装docker
 

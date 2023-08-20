@@ -171,7 +171,7 @@ markdown一直是芒果非常看重的一个点，自带的markdown编辑器芒�
 ---
 
 至于托管主机推荐腾讯云，本站也是从原阿里云的转到腾讯云了，新用户优惠力度还是比较大的。优惠链接
-[![【腾讯云】云产品限时秒杀，爆款1核2G云服务器，首年74元](https://mangoroom.cn/usr/uploads/2021/09/2788699968.jpg)](https://mangoroom.cn/go/tencentcloud1/)
+[![【腾讯云】云产品限时秒杀，爆款1核2G云服务器，首年74元](https://mangoroom.cn/usr/uploads/2021/09/2788699968.jpg)](https://curl.qcloud.com/ArhxAoxC)
 
 ---
 

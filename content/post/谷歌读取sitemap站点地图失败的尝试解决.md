@@ -30,7 +30,7 @@ date: "2019-06-05 22:25:00"
 以上是芒果个人无意间尝试的一个解决办法，并不一定可行。但假如碰到了这个问题，尝试一下或许可以像芒果一样收获惊喜。
 
 托管主机推荐腾讯云，新用户优惠力度还是比较大的，本站使用的就是腾讯云。优惠链接
-[![【腾讯云】云产品限时秒杀，爆款1核2G云服务器，首年74元](https://mangoroom.cn/usr/uploads/2021/09/2788699968.jpg)](https://mangoroom.cn/go/tencentcloud1/)
+[![【腾讯云】云产品限时秒杀，爆款1核2G云服务器，首年74元](https://mangoroom.cn/usr/uploads/2021/09/2788699968.jpg)](https://curl.qcloud.com/ArhxAoxC)
 
 ---
 

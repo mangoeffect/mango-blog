@@ -109,7 +109,7 @@ Usage of derper:
 
 推荐腾讯云，新用户优惠力度还是比较大的，在带宽上感觉也比阿里云要慷慨一些。优惠链接
 
-[![【腾讯云】云产品限时秒杀，爆款1核2G云服务器，首年74元](https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com/mango-bogad-tencentcloud.jpg)](https://mangoroom.cn/go/tencentcloud1/)
+[![【腾讯云】云产品限时秒杀，爆款1核2G云服务器，首年74元](https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com/mango-bogad-tencentcloud.jpg)](https://curl.qcloud.com/ArhxAoxC)
 
 ```
 derper -c=$HOME/derper.conf -hostname=yourhostname.com -stun

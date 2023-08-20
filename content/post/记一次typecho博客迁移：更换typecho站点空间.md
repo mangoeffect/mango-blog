@@ -52,7 +52,7 @@ date: "2019-05-23 17:05:00"
 其实整个迁移过程下来非常简单，这里要吹一波宝塔了，真的方便好用。
 
 博客托管主机推荐腾讯云，新用户优惠力度还是比较大的，本站使用的就是腾讯云。优惠链接
-[![【腾讯云】云产品限时秒杀，爆款1核2G云服务器，首年74元](https://mangoroom.cn/usr/uploads/2021/09/2788699968.jpg)](https://mangoroom.cn/go/tencentcloud1/)
+[![【腾讯云】云产品限时秒杀，爆款1核2G云服务器，首年74元](https://mangoroom.cn/usr/uploads/2021/09/2788699968.jpg)](https://curl.qcloud.com/ArhxAoxC)
 
 --- 
 
