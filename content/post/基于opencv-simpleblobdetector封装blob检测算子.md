@@ -612,6 +612,6 @@ keypoints size: 16
 本文由芒果浩明发布，转载请注明出处。
 本文链接：https://blog.mangoroom.cn/opencv/better-blob-detection-based-on-simepleblobdetector.html
 
-  [1]: https://mangoroom.cn/usr/uploads/2020/04/1884716798.jpg
-  [2]: https://mangoroom.cn/usr/uploads/2020/04/75016653.png
-  [3]: https://mangoroom.cn/usr/uploads/2020/04/441672238.png
+  [1]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//opencv-blob-detect-1.jpg
+  [2]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//opencv-blob-detect-2.png
+  [3]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//opencv-blob-detect-3.png

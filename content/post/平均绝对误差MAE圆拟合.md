@@ -314,13 +314,15 @@ CircleFit::~CircleFit()
 本文由芒果浩明发布，转载请注明出处。
 本文链接：https://blog.mangoroom.cn/opencv/mean-absolute-error-circle-fit.html
 
-  [1]: https://mangoroom.cn/usr/uploads/2020/05/3884456168.png
-  [2]: https://mangoroom.cn/usr/uploads/2020/05/1422078333.png
-  [3]: https://mangoroom.cn/usr/uploads/2020/05/1396577890.png
-  [4]: https://mangoroom.cn/usr/uploads/2020/05/2213239870.png
-  [5]: https://mangoroom.cn/usr/uploads/2020/05/3684407773.png
-  [6]: https://mangoroom.cn/usr/uploads/2020/05/771059729.png
-  [7]: https://mangoroom.cn/usr/uploads/2020/05/1255984281.png
-  [8]: https://mangoroom.cn/usr/uploads/2020/05/860262752.png
-  [9]: https://mangoroom.cn/usr/uploads/2020/05/2845814442.png
-  [10]: https://mangoroom.cn/usr/uploads/2020/05/1083095948.png
+
+
+  [1]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//mae-circle-fitting-1.png
+  [2]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//mae-circle-fitting-2.png
+  [3]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//mae-circle-fitting-3.png
+  [4]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//mae-circle-fitting-4.png
+  [5]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//mae-circle-fitting-5.png
+  [6]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//mae-circle-fitting-6.png
+  [7]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//mae-circle-fitting-7.png
+  [8]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//mae-circle-fitting-8.png
+  [9]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//mae-circle-fitting-9.png
+  [10]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//mae-circle-fitting-10.png

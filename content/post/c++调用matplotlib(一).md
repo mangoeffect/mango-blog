@@ -502,17 +502,19 @@ int main()
 本文由芒果浩明发布，转载请注明出处。
 本文链接：https://blog.mangoroom.cn/cpp/call-matplotlib-on-cpp.html
 
-  [1]: https://mangoroom.cn/usr/uploads/2020/05/577206688.png
-  [2]: https://mangoroom.cn/usr/uploads/2020/05/534191068.png
-  [3]: https://mangoroom.cn/usr/uploads/2020/05/649995743.png
-  [4]: https://mangoroom.cn/usr/uploads/2020/05/4255689049.png
-  [5]: https://mangoroom.cn/usr/uploads/2020/05/31905337.png
-  [6]: https://mangoroom.cn/usr/uploads/2020/05/573974404.png
-  [7]: https://mangoroom.cn/usr/uploads/2020/05/1932182563.png
-  [8]: https://mangoroom.cn/usr/uploads/2020/05/1956816552.png
-  [9]: https://mangoroom.cn/usr/uploads/2020/05/2515296232.png
-  [10]: https://mangoroom.cn/usr/uploads/2020/05/1223948281.gif
-  [11]: https://mangoroom.cn/usr/uploads/2020/05/2671270743.png
-  [12]: https://mangoroom.cn/usr/uploads/2020/05/3211975383.png
-  [13]: https://mangoroom.cn/usr/uploads/2020/05/2630404603.png
-  [14]: https://mangoroom.cn/usr/uploads/2020/05/4175036520.png
+
+
+  [1]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//cpp-call-plot-1.png
+  [2]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//cpp-call-plot-2.png
+  [3]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//cpp-call-plot-3.png
+  [4]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//cpp-call-plot-4.png
+  [5]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//cpp-call-plot-5.png
+  [6]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//cpp-call-plot-6.png
+  [7]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//cpp-call-plot-7.png
+  [8]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//cpp-call-plot-8.png
+  [9]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//cpp-call-plot-9.png
+  [10]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//cpp-call-plot-10.gif
+  [11]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//cpp-call-plot-11.png
+  [12]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//cpp-call-plot-12.png
+  [13]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//cpp-call-plot-13.png
+  [14]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//cpp-call-plot-14.png
