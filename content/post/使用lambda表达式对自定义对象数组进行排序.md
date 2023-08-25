@@ -9,7 +9,6 @@ date: "2020-06-12 15:49:00"
 
 在C++11以前，对自定义对象的数组排序是一个比较麻烦的事情，需要自行编写定制的排序算法，或者使用函数绑定传入到sort函数里面。这么做比较麻烦，针对自定义对象的每一个属性做排序条件都要写一遍，在C++11出来后，匿名函数lambda表达式就解决了这个问题。
 
-![images.png][1]
 
 - 自定义对象
 ```cpp
@@ -413,4 +412,3 @@ int main()
 本文由芒果浩明发布，转载请注明出处。
 本文链接：https://blog.mangoroom.cn/cpp/use-lambda-to-sort-custom-object-array.html
 
-  [1]: https://mangoroom.cn/usr/uploads/2020/06/1197349793.png

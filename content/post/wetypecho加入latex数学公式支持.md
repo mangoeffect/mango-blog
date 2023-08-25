@@ -209,14 +209,13 @@ detail.wxml文件约33行，修改为
 本文由芒果浩明发布，转载请注明出处。
 本文链接：https://blog.mangoroom.cn/website/wetyoeho-support-latex-render.html
 
-
-  [1]: https://mangoroom.cn/usr/uploads/2020/03/1962872533.jpg
-  [2]: https://mangoroom.cn/usr/uploads/2020/03/1877059212.png
-  [3]: https://mangoroom.cn/usr/uploads/2020/03/2817598091.png
-  [4]: https://mangoroom.cn/usr/uploads/2020/03/2654685755.png
-  [5]: https://mangoroom.cn/usr/uploads/2020/03/3444256110.png
-  [6]: https://mangoroom.cn/usr/uploads/2020/03/846572844.png
-  [7]: https://mangoroom.cn/usr/uploads/2020/03/4005287692.png
-  [8]: https://mangoroom.cn/usr/uploads/2020/03/2612417864.png
-  [9]: https://mangoroom.cn/usr/uploads/2020/03/2479604120.png
-  [10]: https://mangoroom.cn/usr/uploads/2020/03/1398693449.jpg
+  [1]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//typecho-miniprogram-latex-1.jpg
+  [2]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//typecho-miniprogram-latex-2.png
+  [3]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//typecho-miniprogram-latex-3.png
+  [4]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//typecho-miniprogram-latex-4.png
+  [5]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//typecho-miniprogram-latex-5.png
+  [6]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//typecho-miniprogram-latex-6.png
+  [7]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//typecho-miniprogram-latex-7.png
+  [8]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//typecho-miniprogram-latex-8.png
+  [9]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//typecho-miniprogram-latex-9.png
+  [10]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//typecho-miniprogram-latex-10.jpg

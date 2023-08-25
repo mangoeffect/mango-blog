@@ -442,6 +442,7 @@ int main()
 本文由芒果浩明发布，转载请注明出处。
 本文链接：https://blog.mangoroom.cn/opencv/mean-absolute-error-line-fit.html
 
-  [1]: https://mangoroom.cn/usr/uploads/2020/05/3471173422.png
-  [2]: https://mangoroom.cn/usr/uploads/2020/05/3792914088.png
-  [3]: https://mangoroom.cn/usr/uploads/2020/05/2999828586.png
+
+  [1]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//mae-linefitting-1.png
+  [2]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//mae-linefitting-2.png
+  [3]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//mae-linefitting-3.png
