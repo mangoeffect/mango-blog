@@ -198,5 +198,5 @@ make
 本文由芒果浩明发布，转载请注明出处。
 本文链接：https://blog.mangoroom.cn/opencv/opencv-cmake-example.html
 
-  [1]: https://mangoroom.cn/usr/uploads/2020/09/2557444240.png
-  [2]: https://mangoroom.cn/usr/uploads/2020/09/3666645826.png
+  [1]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//opencv-cmake-1.png
+  [2]: https://mango-blog-1255355814.cos.ap-guangzhou.myqcloud.com//opencv-cmake-2.png
