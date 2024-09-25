@@ -128,7 +128,7 @@ serverName = "cactus.chat"
 siteName = ""
 
 [comments.giscus]
-repo = "mangosroom/mango-blog"
+repo = "mangoeffect/mango-blog"
 repoID = "R_kgDOKAAgGg"
 category = "Announcements"
 categoryID = "DIC_kwDOKAAgGs4CYK4L"
